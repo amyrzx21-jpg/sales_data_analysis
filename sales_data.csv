@@ -1,0 +1,866 @@
+order_id,order_date,customer_id,category,product,quantity,unit_price,region,payment_method,total_price
+ORD1642,2026-04-04,1232,Clothing,Running Shoes,5,2098429.0,Tehran,Cash,10492145.0
+ORD1782,2026-06-19,1040,Electronics,Mobile Phone,3,17285181.0,,Online,51855543.0
+ORD1821,2026-02-18,1254,Beauty,Sunscreen,3,414333.0,Tabriz,Online,1242999.0
+ORD1568,2026-04-18,1076,BEAUTY,Sunscreen,2,479099.0,Tehran,Credit Card,958198.0
+ORD1289,2026-03-23,1238,Books,Novel,1,253633.0,Tehran,Credit Card,253633.0
+ORD1244,2026-06-27,1224,Clothing,Jeans,1,737978.0,Tabriz,Cash,737978.0
+ORD1140,2026-01-14,1281,Books,Textbook,2,536995.0,Mashhad,Credit Card,1073990.0
+ORD1597,2026-02-27,1169,Beauty,Skincare Cream,1,663299.0,Isfahan,Credit Card,663299.0
+ORD1492,2026-01-31,1219,Beauty,Shampoo,3,212163.0,Tehran,Credit Card,636489.0
+ORD1768,2026-02-03,1117,Home & Kitchen,Cookware Set,1,3119145.0,Tabriz,Online,3119145.0
+ORD1209,2026-03-29,1159,clothing,Running Shoes,1,2080604.0,Mashhad,Credit Card,2080604.0
+ORD1108,2026-06-02,1005,home & kitchen,Vacuum Cleaner,1,4304734.0,Isfahan,Online,4304734.0
+ORD1792,2026-01-03,1153,Home & Kitchen,Vacuum Cleaner,2,4504239.0,Shiraz,Credit Card,9008478.0
+ORD1720,2026-04-14,1009,Home & Kitchen,Sofa,2,12841613.0,Tabriz,Online,25683226.0
+ORD1602,2026-02-16,1170,Sports,Yoga Mat,1,426744.0,Tehran,Credit Card,426744.0
+ORD1464,2026-05-28,1248,Home & Kitchen,Vacuum Cleaner,1,4832764.0,Mashhad,Online,4832764.0
+ORD1478,2026-06-05,1013,CLOTHING,Hat,2,268772.0,Isfahan,Online,537544.0
+ORD1630,2026-04-08,1014,Books,Textbook,1,517067.0,Isfahan,Online,517067.0
+ORD1556,2026-06-13,1242,Electronics,Laptop,1,23536060.0,Isfahan,Cash,23536060.0
+ORD1097,2026-03-03,1058,Clothing,T-Shirt,2,345942.0,Mashhad,Credit Card,691884.0
+ORD1777,2026-04-08,1237,Sports,Tennis Racket,4,1967564.0,Tabriz,Credit Card,7870256.0
+ORD1098,2026-03-07,1058,Books,Cookbook,2,277220.0,Isfahan,Cash,554440.0
+ORD1171,2026-05-19,1256,Clothing,Jeans,1,738123.0,Isfahan,Online,738123.0
+ORD1727,2026-02-03,1000,Electronics,Laptop,2,26181069.0,Tabriz,Online,52362138.0
+ORD1459,2026-06-23,1072,Beauty,Shampoo,3,206582.0,Shiraz,Credit Card,619746.0
+ORD1493,2026-05-28,1233,Home & Kitchen,Lamp,1,,Tehran,Credit Card,
+ORD1504,2026-06-12,1000,Electronics,Mobile Phone,2,18532025.0,,Credit Card,37064050.0
+ORD1775,2026-06-23,1295,Sports,Football,1,,,Cash,
+ORD1505,2026-03-20,1271,beauty,Lipstick,3,359487.0,Tehran,Cash,1078461.0
+ORD1446,2026-01-03,1099,Books,Novel,4,269440.0,Shiraz,Cash,1077760.0
+ORD1515,2026-03-05,1262,Clothing,Jacket,1,1386328.0,Isfahan,Credit Card,1386328.0
+ORD1061,2026-04-16,1081,beauty,Shampoo,3,211951.0,Mashhad,Credit Card,635853.0
+ORD1134,2026-02-14,1226,Beauty,Shampoo,2,235590.0,Shiraz,Online,471180.0
+ORD1848,2026-01-24,1148,Sports,Bicycle,2,8502985.0,Mashhad,Credit Card,17005970.0
+ORD1204,2026-05-23,1142,Clothing,T-Shirt,1,355960.0,Isfahan,Cash,355960.0
+ORD1057,2026-05-30,1220,Books,Novel,3,237839.0,Tabriz,Cash,713517.0
+ORD1781,2026-04-26,1094,Home & Kitchen,Lamp,2,906152.0,Shiraz,Cash,1812304.0
+ORD1350,2026-04-03,1057,Books,Textbook,2,500250.0,Tehran,Online,1000500.0
+ORD1596,2026-03-08,1171,Electronics,Tablet,1,14375329.0,Tabriz,Cash,14375329.0
+ORD1060,2026-02-15,1091,Clothing,Jeans,5,785750.0,Shiraz,Cash,3928750.0
+ORD1691,2026-05-12,1094,Clothing,Running Shoes,4,2173753.0,,Cash,8695012.0
+ORD1399,2026-03-18,1123,Clothing,Running Shoes,4,2289599.0,Mashhad,Online,9158396.0
+ORD1013,2026-01-15,1161,Clothing,Jacket,3,1430961.0,Mashhad,Cash,4292883.0
+ORD1034,2026-01-14,1206,Sports,Tennis Racket,4,2041552.0,Tehran,Cash,8166208.0
+ORD1351,2026-02-21,1076,Electronics,Smart Watch,4,6342230.0,Tabriz,Online,25368920.0
+ORD1614,2026-01-13,1010,Books,Comic Book,1,158965.0,Tehran,Online,158965.0
+ORD1411,2026-05-24,1266,Sports,Tennis Racket,3,2036818.0,Mashhad,Online,6110454.0
+ORD1053,2026-06-12,1250,Beauty,Shampoo,1,233897.0,Isfahan,Online,233897.0
+ORD1454,2026-07-01,1219,Clothing,Hat,2,234447.0,Tabriz,Online,468894.0
+ORD1094,2026-03-25,1142,Sports,Dumbbell Set,1,2608386.0,Isfahan,Credit Card,2608386.0
+ORD1538,2026-03-28,1069,Beauty,Lipstick,2,376993.0,Isfahan,Credit Card,753986.0
+ORD1159,2026-02-07,1210,Home & Kitchen,Vacuum Cleaner,1,4664315.0,Mashhad,Online,4664315.0
+ORD1148,2026-05-29,1228,Beauty,Shampoo,3,204212.0,Shiraz,Cash,612636.0
+ORD1063,2026-02-28,1098,Sports,Dumbbell Set,-1,2442701.0,Mashhad,Cash,-2442701.0
+ORD1686,2026-04-23,1015,Books,Novel,1,252864.0,Shiraz,Credit Card,252864.0
+ORD1327,2026-03-12,1293,HOME & KITCHEN,Cookware Set,1,3257201.0,Isfahan,Cash,3257201.0
+ORD1797,2026-01-18,1148,Home & Kitchen,Cookware Set,1,3233348.0,Mashhad,Cash,3233348.0
+ORD1294,2026-01-24,1086,beauty,Shampoo,2,206872.0,Tabriz,Online,413744.0
+ORD1825,2026-05-15,1131,BEAUTY,Lipstick,2,405527.0,Tabriz,Online,811054.0
+ORD1046,2026-03-22,1160,Beauty,Sunscreen,2,436443.0,Isfahan,Cash,872886.0
+ORD1547,2026-04-07,1295,Sports,Tennis Racket,1,1952158.0,Tehran,Credit Card,1952158.0
+ORD1844,2026-01-15,1222,Electronics,Smart Watch,1,5662716.0,Isfahan,Credit Card,5662716.0
+ORD1242,2026-01-26,1269,Clothing,T-Shirt,1,373232.0,Tabriz,Online,373232.0
+ORD1518,2026-02-26,1205,Electronics,Laptop,3,26949104.0,Mashhad,Cash,80847312.0
+ORD1022,2026-01-28,1259,Books,Cookbook,2,290022.0,Isfahan,Online,580044.0
+ORD1396,2026-01-11,1290,Books,Novel,4,264336.0,Mashhad,Cash,1057344.0
+ORD1125,2026-02-14,1080,Home & Kitchen,Blender,1,1779007.0,Tabriz,Cash,1779007.0
+ORD1222,2026-03-21,1170,Books,Novel,1,233746.0,Isfahan,Cash,233746.0
+ORD1017,2026-01-24,1078,Clothing,Jeans,2,803168.0,Tehran,Cash,1606336.0
+ORD1336,2026-02-14,1018,Beauty,Skincare Cream,4,739811.0,Shiraz,Cash,2959244.0
+ORD1840,2026-04-02,1135,Clothing,T-Shirt,1,322733.0,Mashhad,Cash,322733.0
+ORD1594,2026-02-26,1243,Clothing,Jacket,3,1595229.0,Tabriz,Online,4785687.0
+ORD1164,2026-03-19,1247,BEAUTY,Shampoo,2,205578.0,Mashhad,Credit Card,411156.0
+ORD1466,2026-04-20,1067,Clothing,Running Shoes,2,2124570.0,Mashhad,Online,4249140.0
+ORD1430,2026-01-22,1072,Electronics,Headphones,1,1131454.0,Tehran,Online,1131454.0
+ORD1786,2026-02-02,1087,Beauty,Shampoo,1,222935.0,Mashhad,Online,222935.0
+ORD1352,2026-04-24,1105,Clothing,Jacket,4,15380860.0,Tehran,Online,61523440.0
+ORD1551,2026-06-17,1222,Beauty,Skincare Cream,1,739444.0,Mashhad,Online,739444.0
+ORD1278,2026-06-23,1190,Books,Novel,2,258078.0,Shiraz,Credit Card,516156.0
+ORD1565,2026-01-21,1075,CLOTHING,Jeans,1,811509.0,Shiraz,Cash,811509.0
+ORD1270,2026-05-08,1265,Sports,Dumbbell Set,5,2623744.0,Shiraz,Credit Card,13118720.0
+ORD1418,2026-06-27,1124,Sports,Dumbbell Set,1,2569007.0,Shiraz,Online,2569007.0
+ORD1608,2026-05-09,1085,Home & Kitchen,Sofa,1,12006561.0,Tabriz,Credit Card,12006561.0
+ORD1563,2026-01-09,1264,Sports,Dumbbell Set,1,2305817.0,Tabriz,Online,2305817.0
+ORD1435,2026-04-29,1094,Clothing,Jacket,2,1548232.0,Mashhad,Credit Card,3096464.0
+ORD1799,2026-05-17,1052,Home & Kitchen,Blender,1,1921679.0,Tehran,Cash,1921679.0
+ORD1153,2026-01-04,1079,Electronics,Smart Watch,4,5989874.0,Mashhad,Credit Card,23959496.0
+ORD1498,2026-03-23,1292,Clothing,Jacket,1,1613854.0,Isfahan,Cash,1613854.0
+ORD1487,2026-04-11,1033,Clothing,Jeans,2,771963.0,Tabriz,Online,1543926.0
+ORD1717,2026-05-03,1082,Beauty,Skincare Cream,2,752083.0,Shiraz,Cash,1504166.0
+ORD1543,2026-01-20,1163,Electronics,Tablet,1,14384609.0,Mashhad,Credit Card,14384609.0
+ORD1779,2026-03-29,1162,Sports,Football,-1,613550.0,Mashhad,Credit Card,-613550.0
+ORD1578,2026-05-15,1088,Beauty,Sunscreen,1,449432.0,Tabriz,Cash,449432.0
+ORD1843,2026-01-25,1153,SPORTS,Bicycle,3,9127055.0,Tabriz,Online,27381165.0
+ORD1826,2026-01-19,1251,ELECTRONICS,Headphones,1,1170498.0,Tehran,Cash,1170498.0
+ORD1834,2026-03-25,1220,Home & Kitchen,Lamp,5,899764.0,Isfahan,Credit Card,4498820.0
+ORD1146,2026-05-11,1141,sports,Yoga Mat,4,457888.0,Mashhad,Cash,1831552.0
+ORD1422,2026-06-18,1216,Clothing,Jacket,1,1401889.0,Mashhad,Online,1401889.0
+ORD1423,2026-06-03,1205,Sports,Football,1,5994640.0,Shiraz,Online,5994640.0
+ORD1788,2026-06-28,1233,Home & Kitchen,Lamp,1,894528.0,Tabriz,Cash,894528.0
+ORD1500,2026-04-30,1167,Electronics,Tablet,1,14443882.0,Isfahan,Credit Card,14443882.0
+ORD1358,2026-04-07,1276,Home & Kitchen,Cookware Set,1,3425397.0,Shiraz,Cash,3425397.0
+ORD1623,2026-06-14,1151,Beauty,Skincare Cream,4,698266.0,Mashhad,Credit Card,2793064.0
+ORD1375,2026-01-19,1286,Beauty,Sunscreen,2,436966.0,Mashhad,Online,873932.0
+ORD1305,2026-03-20,1046,Books,Textbook,2,538068.0,Shiraz,Cash,1076136.0
+ORD1552,2026-02-22,1283,Clothing,T-Shirt,1,352906.0,Mashhad,Credit Card,352906.0
+ORD1261,2026-05-15,1259,Books,Biography,1,301954.0,Tabriz,Online,301954.0
+ORD1381,2026-02-26,1133,Sports,Football,2,618886.0,Mashhad,Cash,1237772.0
+ORD1480,2026-03-03,1057,Home & Kitchen,Blender,3,1837266.0,Shiraz,Credit Card,5511798.0
+ORD1168,2026-06-18,1049,Books,Biography,2,259426.0,Mashhad,Online,518852.0
+ORD1610,2026-06-25,1250,Books,Comic Book,1,138943.0,Mashhad,Credit Card,138943.0
+ORD1232,2026-02-08,1052,Home & Kitchen,Lamp,2,911074.0,Tehran,Credit Card,1822148.0
+ORD1110,2026-05-06,1047,Beauty,Lipstick,2,367216.0,Shiraz,Cash,734432.0
+ORD1676,2026-05-13,1260,Beauty,Shampoo,1,206343.0,Isfahan,Online,206343.0
+ORD1417,2026-02-21,1090,Home & Kitchen,Lamp,4,875327.0,Shiraz,Credit Card,3501308.0
+ORD1725,2026-05-10,1049,Electronics,Laptop,1,26367315.0,Shiraz,Cash,26367315.0
+ORD1810,2026-01-11,1243,Sports,Yoga Mat,1,484908.0,Tabriz,Online,484908.0
+ORD1587,2026-04-30,1266,Home & Kitchen,Cookware Set,1,3009986.0,Isfahan,Online,3009986.0
+ORD1330,2026-05-18,1139,Beauty,Lipstick,1,371243.0,Isfahan,Online,371243.0
+ORD1508,2026-05-10,1201,Sports,Football,2,643180.0,Mashhad,Online,1286360.0
+ORD1645,2026-04-06,1084,Home & Kitchen,Vacuum Cleaner,2,4781179.0,Tehran,Cash,9562358.0
+ORD1702,2026-05-29,1108,Electronics,Smart Watch,2,5843140.0,Tabriz,Credit Card,11686280.0
+ORD1127,2026-06-29,1119,Clothing,Jacket,3,1586575.0,Shiraz,Cash,4759725.0
+ORD1403,2026-04-26,1182,Electronics,Headphones,3,1262679.0,Shiraz,Cash,3788037.0
+ORD1692,2026-02-19,1290,Clothing,Hat,3,250304.0,Tehran,Cash,750912.0
+ORD1426,2026-06-15,1220,Clothing,Hat,1,,Shiraz,Credit Card,
+ORD1048,2026-05-25,1275,electronics,Laptop,2,25186841.0,Tehran,Cash,50373682.0
+ORD1220,2026-02-13,1185,Sports,Football,5,615130.0,Tabriz,Credit Card,3075650.0
+ORD1271,2026-01-21,1092,Home & Kitchen,Blender,3,1889312.0,Shiraz,Online,5667936.0
+ORD1835,2026-05-25,1192,Beauty,Shampoo,2,,Tabriz,Cash,
+ORD1562,2026-05-18,1120,sports,Bicycle,1,8005465.0,Shiraz,Online,8005465.0
+ORD1388,2026-06-13,1249,Sports,Dumbbell Set,1,2600245.0,Tabriz,Credit Card,2600245.0
+ORD1808,2026-01-14,1120,sports,Dumbbell Set,1,2480335.0,Mashhad,Cash,2480335.0
+ORD1015,2026-02-05,1287,Sports,Tennis Racket,1,1803754.0,Mashhad,Online,1803754.0
+ORD1653,2026-02-04,1262,HOME & KITCHEN,Vacuum Cleaner,2,4676716.0,Mashhad,Credit Card,9353432.0
+ORD1387,2026-02-08,1258,clothing,Jeans,1,758712.0,Tehran,Cash,758712.0
+ORD1685,2026-05-09,1154,Electronics,Laptop,1,25227051.0,Tehran,Credit Card,25227051.0
+ORD1735,2026-04-16,1247,Beauty,Lipstick,3,,Tabriz,Online,
+ORD1672,2026-02-26,1169,Books,Textbook,1,466418.0,Mashhad,Online,466418.0
+ORD1591,2026-03-03,1206,Clothing,Jeans,2,818031.0,Tehran,Online,1636062.0
+ORD1397,2026-01-20,1288,Sports,Dumbbell Set,1,2471597.0,Isfahan,Online,2471597.0
+ORD1259,2026-02-06,1000,Beauty,Sunscreen,2,420996.0,Isfahan,Credit Card,841992.0
+ORD1784,2026-05-15,1134,Electronics,Laptop,3,23726390.0,Tehran,Cash,71179170.0
+ORD1256,2026-06-05,1056,Clothing,Hat,4,267446.0,Tabriz,Credit Card,1069784.0
+ORD1138,2026-01-30,1000,Electronics,Headphones,1,1173816.0,Shiraz,Online,1173816.0
+ORD1054,2026-04-19,1001,Home & Kitchen,Blender,1,1828195.0,Isfahan,Cash,1828195.0
+ORD1205,2026-05-24,1285,Books,Cookbook,3,276441.0,Tabriz,Online,829323.0
+ORD1442,2026-03-03,1093,Beauty,Perfume,1,1567813.0,Isfahan,Cash,1567813.0
+ORD1253,2026-01-26,1070,Home & Kitchen,Sofa,1,11648490.0,Isfahan,Cash,11648490.0
+ORD1237,2026-03-27,1072,Beauty,Sunscreen,4,415750.0,Tehran,Online,1663000.0
+ORD1022,2026-01-28,1259,Books,Cookbook,2,290022.0,Isfahan,Online,580044.0
+ORD1783,2026-01-25,1280,Clothing,Jeans,1,,Tehran,Credit Card,
+ORD1360,2026-01-06,1278,Beauty,Perfume,3,1571371.0,Isfahan,Credit Card,4714113.0
+ORD1299,2026-01-16,1212,Home & Kitchen,Cookware Set,1,2987697.0,Mashhad,Credit Card,2987697.0
+ORD1743,2026-01-09,1264,Clothing,Hat,1,250108.0,Tabriz,Online,250108.0
+ORD1674,2026-03-30,1124,Beauty,Skincare Cream,1,689964.0,Shiraz,Cash,689964.0
+ORD1347,2026-03-17,1113,BEAUTY,Skincare Cream,2,649074.0,Isfahan,Online,1298148.0
+ORD1367,2026-06-19,1211,Clothing,Jacket,4,1597284.0,Tabriz,Cash,6389136.0
+ORD1846,2026-03-23,1076,Electronics,Headphones,2,,Tabriz,Online,
+ORD1179,2026-05-18,1232,Electronics,Laptop,1,235500830.0,Mashhad,Credit Card,235500830.0
+ORD1142,2026-07-01,1282,Beauty,Sunscreen,3,449801.0,Mashhad,Credit Card,1349403.0
+ORD1050,2026-05-20,1270,Home & Kitchen,Sofa,1,12901602.0,Isfahan,Online,12901602.0
+ORD1682,2026-02-28,1198,BOOKS,Novel,2,236835.0,Isfahan,Credit Card,473670.0
+ORD1558,2026-04-05,1095,Electronics,Smart Watch,1,6244931.0,Shiraz,Credit Card,6244931.0
+ORD1722,2026-04-16,1298,Sports,Yoga Mat,1,418787.0,Tabriz,Cash,418787.0
+ORD1081,2026-05-24,1226,clothing,Running Shoes,2,2243400.0,Tabriz,Credit Card,4486800.0
+ORD1569,2026-01-26,1051,Clothing,Hat,2,243930.0,Tehran,Online,487860.0
+ORD1593,2026-01-10,1292,Sports,Tennis Racket,1,1853082.0,Tabriz,Online,1853082.0
+ORD1613,2026-01-10,1130,Electronics,Headphones,3,1119697.0,Shiraz,Online,3359091.0
+ORD1066,2026-06-02,1160,Books,Biography,-1,263913.0,Shiraz,Credit Card,-263913.0
+ORD1658,2026-05-14,1195,Home & Kitchen,Cookware Set,3,3274709.0,Tehran,Cash,9824127.0
+ORD1009,2026-01-21,1194,Electronics,Mobile Phone,3,18599249.0,Mashhad,Cash,55797747.0
+ORD1618,2026-06-08,1058,Sports,Football,2,629395.0,Tehran,Credit Card,1258790.0
+ORD1511,2026-02-21,1055,Home & Kitchen,Sofa,1,11843026.0,Mashhad,Online,11843026.0
+ORD1355,2026-04-12,1111,Beauty,Shampoo,3,225013.0,Isfahan,Cash,675039.0
+ORD1638,2026-03-02,1227,Books,Textbook,1,481539.0,Tehran,Credit Card,481539.0
+ORD1503,2026-03-04,1209,Beauty,Sunscreen,3,472593.0,Mashhad,Cash,1417779.0
+ORD1706,2026-02-05,1091,Books,Cookbook,3,291472.0,Shiraz,Cash,874416.0
+ORD1473,2026-03-18,1068,Electronics,Headphones,1,1275099.0,Mashhad,Credit Card,1275099.0
+ORD1711,2026-03-09,1291,Beauty,Shampoo,3,223366.0,Tabriz,Online,670098.0
+ORD1625,2026-01-30,1004,Beauty,Shampoo,1,215385.0,Tehran,Cash,215385.0
+ORD1452,2026-06-17,1016,Sports,Football,3,592725.0,Mashhad,Credit Card,1778175.0
+ORD1064,2026-01-18,1260,Sports,Dumbbell Set,1,2412373.0,Isfahan,Credit Card,2412373.0
+ORD1760,2026-05-28,1093,Books,Biography,2,264395.0,Isfahan,Credit Card,528790.0
+ORD1409,2026-01-07,1283,books,Comic Book,1,140190.0,Tehran,Credit Card,140190.0
+ORD1590,2026-03-12,1152,Home & Kitchen,Vacuum Cleaner,2,4239955.0,Isfahan,Online,8479910.0
+ORD1827,2026-01-16,1212,Electronics,Tablet,3,13657175.0,Isfahan,Online,40971525.0
+ORD1838,2026-02-26,1011,Home & Kitchen,Blender,1,1823209.0,Mashhad,Credit Card,1823209.0
+ORD1673,2026-06-08,1287,home & kitchen,Vacuum Cleaner,1,,,Credit Card,
+ORD1472,2026-02-28,1052,Beauty,Perfume,2,1483048.0,Shiraz,Cash,2966096.0
+ORD1272,2026-01-21,1151,Books,Biography,1,296444.0,Isfahan,Online,296444.0
+ORD1660,2026-01-16,1277,Beauty,Shampoo,1,214934.0,Isfahan,Cash,214934.0
+ORD1296,2026-01-08,1295,Books,Novel,3,260799.0,Tehran,Cash,782397.0
+ORD1586,2026-03-20,1192,Clothing,Jacket,2,1398207.0,Isfahan,Credit Card,2796414.0
+ORD1809,2026-02-12,1061,Beauty,Lipstick,1,356484.0,Isfahan,Online,356484.0
+ORD1357,2026-04-15,1215,Electronics,Tablet,1,14192137.0,Mashhad,Cash,14192137.0
+ORD1814,2026-03-30,1098,Home & Kitchen,Lamp,3,953265.0,Shiraz,Online,2859795.0
+ORD1470,2026-05-03,1115,Beauty,Skincare Cream,1,645361.0,Tehran,Cash,645361.0
+ORD1299,2026-01-16,1212,Home & Kitchen,Cookware Set,1,2987697.0,Mashhad,Credit Card,2987697.0
+ORD1709,2026-04-03,1232,Beauty,Perfume,2,1646464.0,Shiraz,Credit Card,3292928.0
+ORD1051,2026-06-19,1135,electronics,Smart Watch,1,6264127.0,Tehran,Cash,6264127.0
+ORD1186,2026-03-01,1001,Books,Cookbook,3,315226.0,Isfahan,Cash,945678.0
+ORD1572,2026-04-13,1169,Books,Comic Book,2,147517.0,Tehran,Credit Card,295034.0
+ORD1228,2026-03-19,1028,Electronics,Tablet,1,14878184.0,Isfahan,Online,14878184.0
+ORD1627,2026-04-13,1139,Home & Kitchen,Vacuum Cleaner,1,4678179.0,Shiraz,Credit Card,4678179.0
+ORD1302,2026-02-01,1126,Electronics,Headphones,1,1207801.0,Isfahan,Credit Card,1207801.0
+ORD1694,2026-05-29,1182,Home & Kitchen,Blender,1,1689073.0,Shiraz,Credit Card,1689073.0
+ORD1188,2026-04-02,1165,Beauty,Skincare Cream,1,703320.0,Mashhad,Online,703320.0
+ORD1507,2026-05-14,1190,Electronics,Laptop,4,26290148.0,Shiraz,Online,105160592.0
+ORD1419,2026-04-11,1288,Home & Kitchen,Cookware Set,1,3329215.0,Isfahan,Cash,3329215.0
+ORD1804,2026-01-04,1127,CLOTHING,Jacket,3,1481791.0,Tehran,Online,4445373.0
+ORD1751,2026-04-07,1124,Books,Biography,2,299704.0,Tabriz,Credit Card,599408.0
+ORD1316,2026-04-05,1056,Home & Kitchen,Cookware Set,3,3153383.0,Isfahan,Online,9460149.0
+ORD1585,2026-02-03,1004,Beauty,Skincare Cream,2,670896.0,Mashhad,Online,1341792.0
+ORD1465,2026-06-10,1063,Home & Kitchen,Blender,1,1763962.0,Shiraz,Cash,1763962.0
+ORD1499,2026-01-14,1264,Home & Kitchen,Blender,2,1940028.0,Mashhad,Cash,3880056.0
+ORD1441,2026-06-22,1043,Sports,Bicycle,1,9161829.0,Isfahan,Online,9161829.0
+ORD1626,2026-04-23,1047,Clothing,Jeans,1,795204.0,Tabriz,Credit Card,795204.0
+ORD1251,2026-02-26,1013,Clothing,Running Shoes,1,2159554.0,Shiraz,Credit Card,2159554.0
+ORD1802,2026-01-09,1074,Home & Kitchen,Cookware Set,2,3239059.0,Isfahan,Cash,6478118.0
+ORD1757,2026-03-03,1117,Sports,Yoga Mat,1,452409.0,Isfahan,Cash,452409.0
+ORD1074,2026-04-30,1109,Books,Comic Book,2,154964.0,Shiraz,Credit Card,309928.0
+ORD1663,2026-06-25,1027,Sports,Tennis Racket,-1,,Isfahan,Online,
+ORD1601,2026-02-21,1291,Electronics,Mobile Phone,1,17362340.0,Isfahan,Credit Card,17362340.0
+ORD1128,2026-02-20,1278,Home & Kitchen,Lamp,2,829001.0,,Cash,1658002.0
+ORD1693,2026-05-21,1034,Electronics,Smart Watch,2,5752713.0,Tehran,Credit Card,11505426.0
+ORD1489,2026-06-05,1089,Sports,Football,2,637465.0,Tehran,Credit Card,1274930.0
+ORD1109,2026-04-15,1123,Books,Cookbook,1,279695.0,Shiraz,Online,279695.0
+ORD1025,2026-01-21,1248,Electronics,Mobile Phone,4,18821306.0,Tehran,Online,75285224.0
+ORD1700,2026-06-15,1143,Sports,Bicycle,1,8544321.0,Tabriz,Cash,8544321.0
+ORD1323,2026-05-03,1160,Books,Biography,5,270141.0,Tabriz,Credit Card,1350705.0
+ORD1656,2026-03-24,1287,Books,Comic Book,2,144810.0,Tehran,Credit Card,289620.0
+ORD1283,2026-01-19,1227,Clothing,T-Shirt,1,327262.0,Shiraz,Cash,327262.0
+ORD1308,2026-03-09,1187,Electronics,Laptop,1,26180744.0,Isfahan,Credit Card,26180744.0
+ORD1408,2026-02-17,1285,Home & Kitchen,Blender,1,1916750.0,Shiraz,Credit Card,1916750.0
+ORD1620,2026-01-11,1106,Home & Kitchen,Cookware Set,1,3038474.0,Tabriz,Credit Card,3038474.0
+ORD1285,2026-07-01,1260,Home & Kitchen,Vacuum Cleaner,4,4165878.0,Mashhad,Credit Card,16663512.0
+ORD1455,2026-02-22,1291,Clothing,Hat,1,249705.0,Mashhad,Cash,249705.0
+ORD1353,2026-05-11,1232,Beauty,Sunscreen,2,425731.0,Shiraz,Cash,851462.0
+ORD1318,2026-01-14,1087,Home & Kitchen,Lamp,2,850526.0,Tabriz,Credit Card,1701052.0
+ORD1218,2026-04-28,1294,Beauty,Skincare Cream,1,716758.0,Tehran,Credit Card,716758.0
+ORD1239,2026-03-26,1269,HOME & KITCHEN,Lamp,-1,853503.0,Mashhad,Online,-853503.0
+ORD1385,2026-05-20,1277,Beauty,Shampoo,-1,230682.0,Shiraz,Cash,-230682.0
+ORD1099,2026-01-07,1192,Clothing,Jacket,1,1405893.0,Isfahan,Online,1405893.0
+ORD1769,2026-05-23,1100,Electronics,Headphones,3,1261681.0,Shiraz,Credit Card,3785043.0
+ORD1192,2026-01-08,1205,home & kitchen,Cookware Set,2,3405014.0,,Credit Card,6810028.0
+ORD1024,2026-01-29,1122,Books,Biography,2,278031.0,Isfahan,Credit Card,556062.0
+ORD1191,2026-06-07,1266,Sports,Bicycle,1,9040213.0,Tehran,Online,9040213.0
+ORD1277,2026-06-15,1196,Electronics,Mobile Phone,1,18431896.0,Isfahan,Credit Card,18431896.0
+ORD1564,2026-04-25,1108,Books,Comic Book,1,146414.0,Mashhad,Cash,146414.0
+ORD1542,2026-06-06,1289,ELECTRONICS,Mobile Phone,2,17218491.0,Mashhad,Online,34436982.0
+ORD1534,2026-03-01,1010,Sports,Football,1,625822.0,Tabriz,Cash,625822.0
+ORD1132,2026-04-21,1128,Sports,Football,2,563507.0,Isfahan,Online,1127014.0
+ORD1477,2026-02-05,1043,Home & Kitchen,Cookware Set,1,32275730.0,Mashhad,Credit Card,32275730.0
+ORD1264,2026-03-27,1180,Beauty,Skincare Cream,3,742265.0,Mashhad,Cash,2226795.0
+ORD1252,2026-04-06,1041,Sports,Football,1,633709.0,Mashhad,Credit Card,633709.0
+ORD1577,2026-05-12,1159,Books,Biography,3,299111.0,Mashhad,Cash,897333.0
+ORD1070,2026-03-18,1209,Beauty,Skincare Cream,3,730491.0,Tabriz,Credit Card,2191473.0
+ORD1371,2026-03-18,1029,Sports,Yoga Mat,3,,Mashhad,Credit Card,
+ORD1115,2026-05-31,1144,Beauty,Lipstick,1,402584.0,Tabriz,Online,402584.0
+ORD1263,2026-04-02,1123,Home & Kitchen,Vacuum Cleaner,3,4513197.0,Tehran,Credit Card,13539591.0
+ORD1532,2026-04-01,1072,Books,Novel,3,269865.0,Tabriz,Online,809595.0
+ORD1771,2026-03-22,1128,Clothing,Hat,2,263858.0,Shiraz,Credit Card,527716.0
+ORD1449,2026-05-18,1234,Home & Kitchen,Blender,1,1680048.0,Isfahan,Cash,1680048.0
+ORD1002,2026-03-01,1013,Electronics,Laptop,1,25927975.0,Tabriz,Online,25927975.0
+ORD1229,2026-04-29,1029,Home & Kitchen,Lamp,1,918883.0,Shiraz,Cash,918883.0
+ORD1766,2026-06-06,1094,Clothing,Jacket,2,1562990.0,Isfahan,Credit Card,3125980.0
+ORD1328,2026-04-12,1148,Beauty,Sunscreen,1,444211.0,,Cash,444211.0
+ORD1739,2026-06-12,1074,Books,Novel,1,245077.0,Tehran,Cash,245077.0
+ORD1199,2026-05-02,1043,Home & Kitchen,Sofa,2,12537361.0,Tehran,Cash,25074722.0
+ORD1390,2026-03-15,1220,Beauty,Shampoo,2,237265.0,Tehran,Online,474530.0
+ORD1379,2026-04-03,1238,Beauty,Shampoo,1,212321.0,Tabriz,Credit Card,212321.0
+ORD1065,2026-01-08,1091,SPORTS,Bicycle,1,8558066.0,Tehran,Credit Card,8558066.0
+ORD1553,2026-03-14,1049,Beauty,Sunscreen,1,454387.0,Isfahan,Cash,454387.0
+ORD1501,2026-04-05,1288,Electronics,Smart Watch,2,6034652.0,Mashhad,Credit Card,12069304.0
+ORD1735,2026-04-16,1247,Beauty,Lipstick,3,,Tabriz,Online,
+ORD1611,2026-04-14,1114,Home & Kitchen,Sofa,1,12574867.0,Tehran,Cash,12574867.0
+ORD1362,2026-01-29,1214,Clothing,Jacket,1,1489980.0,Tehran,Online,1489980.0
+ORD1708,2026-03-09,1021,Clothing,Running Shoes,1,2113633.0,Isfahan,Cash,2113633.0
+ORD1273,2026-04-20,1227,Home & Kitchen,Cookware Set,2,3411579.0,Mashhad,Online,6823158.0
+ORD1651,2026-02-02,1164,Clothing,Hat,1,251484.0,Tehran,Credit Card,251484.0
+ORD1177,2026-01-17,1154,Home & Kitchen,Lamp,1,883689.0,Shiraz,Online,883689.0
+ORD1037,2026-05-21,1276,Electronics,Tablet,3,13098785.0,Tehran,Cash,39296355.0
+ORD1202,2026-01-14,1159,Beauty,Lipstick,4,359427.0,Isfahan,Online,1437708.0
+ORD1236,2026-06-23,1129,Electronics,Headphones,1,1157908.0,Shiraz,Credit Card,1157908.0
+ORD1149,2026-05-22,1233,Books,Textbook,1,482291.0,Tabriz,Credit Card,482291.0
+ORD1217,2026-06-21,1203,Books,Cookbook,2,311831.0,Isfahan,Cash,623662.0
+ORD1778,2026-06-13,1292,Beauty,Perfume,4,1656329.0,Isfahan,Credit Card,6625316.0
+ORD1668,2026-07-01,1078,Home & Kitchen,Blender,1,1709731.0,,Cash,1709731.0
+ORD1746,2026-02-21,1035,Beauty,Lipstick,1,372940.0,Tabriz,Cash,372940.0
+ORD1659,2026-02-21,1146,Clothing,T-Shirt,2,,Isfahan,Cash,
+ORD1738,2026-05-11,1281,Sports,Yoga Mat,1,445617.0,Shiraz,Credit Card,445617.0
+ORD1790,2026-01-23,1187,Sports,Bicycle,1,8028557.0,Shiraz,Credit Card,8028557.0
+ORD1487,2026-04-11,1033,Clothing,Jeans,2,771963.0,Tabriz,Online,1543926.0
+ORD1794,2026-05-24,1127,Home & Kitchen,Sofa,1,11074771.0,Shiraz,Credit Card,11074771.0
+ORD1300,2026-06-05,1163,Sports,Tennis Racket,1,1763711.0,Mashhad,Credit Card,1763711.0
+ORD1598,2026-04-29,1027,Home & Kitchen,Vacuum Cleaner,2,4278448.0,Tehran,Credit Card,8556896.0
+ORD1193,2026-04-24,1164,Sports,Football,2,612777.0,,Cash,1225554.0
+ORD1235,2026-06-23,1171,Sports,Tennis Racket,3,1967625.0,Tabriz,Cash,5902875.0
+ORD1719,2026-05-27,1085,clothing,Hat,1,,Mashhad,Cash,
+ORD1055,2026-03-09,1226,Home & Kitchen,Sofa,2,12809998.0,Mashhad,Online,25619996.0
+ORD1791,2026-01-03,1069,Sports,Dumbbell Set,1,2534491.0,Tehran,Online,2534491.0
+ORD1096,2026-01-18,1126,Electronics,Headphones,1,1204364.0,Tehran,Cash,1204364.0
+ORD1141,2026-06-28,1014,Clothing,Jacket,1,1440427.0,,Cash,1440427.0
+ORD1716,2026-01-31,1169,Clothing,Jeans,1,842319.0,Mashhad,Credit Card,842319.0
+ORD1742,2026-02-14,1005,Home & Kitchen,Lamp,1,935655.0,Shiraz,Credit Card,935655.0
+ORD1619,2026-02-21,1103,Electronics,Tablet,1,14556101.0,Isfahan,Online,14556101.0
+ORD1457,2026-05-12,1210,home & kitchen,Lamp,1,895487.0,Tehran,Cash,895487.0
+ORD1120,2026-04-13,1295,Sports,Football,3,629514.0,Shiraz,Cash,1888542.0
+ORD1513,2026-02-23,1237,Books,Biography,5,296399.0,Shiraz,Credit Card,1481995.0
+ORD1062,2026-01-10,1102,Beauty,Skincare Cream,1,736818.0,Shiraz,Cash,736818.0
+ORD1650,2026-04-21,1260,Books,Novel,2,233476.0,Tabriz,Credit Card,466952.0
+ORD1326,2026-06-30,1250,Clothing,Jacket,-3,1513044.0,Mashhad,Online,-4539132.0
+ORD1003,2026-06-29,1112,Books,Cookbook,3,304735.0,Tabriz,Credit Card,914205.0
+ORD1058,2026-01-11,1127,CLOTHING,T-Shirt,1,324532.0,Isfahan,Cash,324532.0
+ORD1223,2026-01-30,1099,Clothing,T-Shirt,2,342592.0,Tabriz,Online,685184.0
+ORD1414,2026-03-05,1100,Electronics,Headphones,1,1225312.0,Shiraz,Online,1225312.0
+ORD1101,2026-05-25,1272,Beauty,Sunscreen,3,459821.0,Tehran,Credit Card,1379463.0
+ORD1221,2026-03-04,1205,Electronics,Tablet,3,14153011.0,Shiraz,Online,42459033.0
+ORD1334,2026-02-21,1146,Sports,Tennis Racket,2,1761984.0,Isfahan,Credit Card,3523968.0
+ORD1705,2026-04-04,1122,Books,Comic Book,1,161759.0,Tabriz,Cash,161759.0
+ORD1052,2026-02-09,1107,Electronics,Laptop,3,26757995.0,Isfahan,Credit Card,80273985.0
+ORD1017,2026-01-24,1078,Clothing,Jeans,2,803168.0,Tehran,Cash,1606336.0
+ORD1306,2026-03-03,1180,Sports,Bicycle,2,8522168.0,Mashhad,Online,17044336.0
+ORD1155,2026-06-22,1162,Beauty,Skincare Cream,-4,671110.0,Tabriz,Credit Card,-2684440.0
+ORD1580,2026-04-29,1063,Home & Kitchen,Sofa,1,119215400.0,Tabriz,Credit Card,119215400.0
+ORD1248,2026-02-21,1128,Books,Textbook,5,537089.0,Tabriz,Cash,2685445.0
+ORD1249,2026-05-22,1264,Electronics,Tablet,4,14790741.0,Tehran,Online,59162964.0
+ORD1701,2026-06-10,1038,Clothing,Hat,1,232072.0,Tehran,Online,232072.0
+ORD1731,2026-02-18,1003,Books,Comic Book,1,157549.0,Tehran,Online,157549.0
+ORD1030,2026-01-19,1034,Clothing,Hat,1,254301.0,Tehran,Cash,254301.0
+ORD1382,2026-04-17,1100,Books,Comic Book,2,153094.0,Isfahan,Cash,306188.0
+ORD1829,2026-05-13,1118,Home & Kitchen,Blender,4,1786238.0,Tehran,Cash,7144952.0
+ORD1117,2026-01-12,1149,Beauty,Sunscreen,1,427433.0,Tehran,Online,427433.0
+ORD1389,2026-04-16,1271,Electronics,Laptop,2,26227338.0,Tehran,Cash,52454676.0
+ORD1116,2026-04-03,1007,Electronics,Mobile Phone,1,18874575.0,Mashhad,Credit Card,18874575.0
+ORD1696,2026-06-18,1299,Sports,Tennis Racket,1,1835743.0,Isfahan,Online,1835743.0
+ORD1570,2026-04-16,1248,home & kitchen,Lamp,4,902014.0,Isfahan,Credit Card,3608056.0
+ORD1445,2026-02-05,1230,Books,Cookbook,2,321467.0,Mashhad,Credit Card,642934.0
+ORD1027,2026-04-19,1102,home & kitchen,Lamp,4,902049.0,Mashhad,Online,3608196.0
+ORD1307,2026-06-02,1274,Electronics,Laptop,1,,Shiraz,Credit Card,
+ORD1365,2026-02-25,1257,Sports,Tennis Racket,1,1865375.0,Tehran,Cash,1865375.0
+ORD1200,2026-04-06,1030,Electronics,Tablet,1,14318150.0,Mashhad,Online,14318150.0
+ORD1528,2026-03-13,1271,Home & Kitchen,Lamp,1,836118.0,Tehran,Credit Card,836118.0
+ORD1752,2026-05-31,1059,Home & Kitchen,Cookware Set,2,,Tehran,Credit Card,
+ORD1776,2026-03-14,1261,Books,Comic Book,1,,Isfahan,Credit Card,
+ORD1684,2026-06-08,1299,Books,Novel,2,267175.0,Tehran,Online,534350.0
+ORD1407,2026-01-02,1184,Home & Kitchen,Vacuum Cleaner,1,4147803.0,Isfahan,Credit Card,4147803.0
+ORD1509,2026-04-22,1149,Electronics,Smart Watch,2,6216690.0,Mashhad,Cash,12433380.0
+ORD1372,2026-05-23,1198,Books,Textbook,5,467555.0,Tabriz,Cash,2337775.0
+ORD1280,2026-01-30,1095,Beauty,Shampoo,1,233728.0,Tehran,Online,233728.0
+ORD1817,2026-04-30,1283,Clothing,Hat,1,245960.0,Isfahan,Online,245960.0
+ORD1567,2026-03-12,1006,Sports,Bicycle,1,8414965.0,Tabriz,Credit Card,8414965.0
+ORD1207,2026-03-31,1073,Home & Kitchen,Vacuum Cleaner,4,4617721.0,Tehran,Cash,18470884.0
+ORD1655,2026-06-22,1091,Books,Biography,2,263315.0,Mashhad,Online,526630.0
+ORD1681,2026-01-19,1128,Beauty,Shampoo,1,211478.0,Tehran,Cash,211478.0
+ORD1023,2026-02-11,1000,Books,Cookbook,1,293585.0,Tabriz,Online,293585.0
+ORD1340,2026-04-28,1095,Clothing,T-Shirt,1,349530.0,Isfahan,Online,349530.0
+ORD1595,2026-02-13,1150,Beauty,Shampoo,2,219083.0,Tabriz,Cash,438166.0
+ORD1544,2026-06-21,1005,Clothing,T-Shirt,3,356615.0,Isfahan,Credit Card,1069845.0
+ORD1154,2026-03-09,1203,Electronics,Tablet,3,15087857.0,Isfahan,Online,45263571.0
+ORD1740,2026-01-17,1189,Sports,Bicycle,1,8449244.0,Isfahan,Cash,8449244.0
+ORD1624,2026-02-14,1184,Home & Kitchen,Cookware Set,1,3260546.0,Tehran,Credit Card,3260546.0
+ORD1675,2026-01-30,1276,Electronics,Headphones,1,1292616.0,Shiraz,Credit Card,1292616.0
+ORD1431,2026-02-22,1178,Home & Kitchen,Vacuum Cleaner,1,4688287.0,Tabriz,Credit Card,4688287.0
+ORD1755,2026-03-29,1091,Electronics,Tablet,2,,Tehran,Online,
+ORD1510,2026-04-11,1231,Home & Kitchen,Vacuum Cleaner,4,45816580.0,Isfahan,Credit Card,183266320.0
+ORD1482,2026-05-26,1279,Home & Kitchen,Sofa,1,11912718.0,Shiraz,Credit Card,11912718.0
+ORD1262,2026-05-01,1198,Books,Novel,1,235603.0,Tehran,Online,235603.0
+ORD1082,2026-05-21,1243,Books,Comic Book,1,145941.0,Shiraz,Cash,145941.0
+ORD1453,2026-01-23,1121,Sports,Dumbbell Set,1,2662541.0,,Cash,2662541.0
+ORD1820,2026-06-08,1032,Electronics,Smart Watch,4,6290739.0,Mashhad,Credit Card,25162956.0
+ORD1523,2026-02-08,1125,Clothing,Jacket,1,1582108.0,Tehran,Online,1582108.0
+ORD1038,2026-03-02,1248,Electronics,Laptop,4,25736932.0,Mashhad,Credit Card,102947728.0
+ORD1581,2026-05-06,1090,Beauty,Skincare Cream,1,753763.0,Tabriz,Credit Card,753763.0
+ORD1333,2026-02-05,1080,Home & Kitchen,Cookware Set,1,3003429.0,Tehran,Online,3003429.0
+ORD1010,2026-04-04,1181,HOME & KITCHEN,Cookware Set,2,2954539.0,Mashhad,Credit Card,5909078.0
+ORD1451,2026-01-11,1111,Books,Biography,2,282616.0,Shiraz,Online,565232.0
+ORD1319,2026-04-08,1124,BOOKS,Comic Book,3,144005.0,Mashhad,Online,432015.0
+ORD1032,2026-05-27,1124,Clothing,Hat,1,232602.0,Tabriz,Credit Card,232602.0
+ORD1463,2026-04-20,1137,Electronics,Smart Watch,1,6080034.0,Mashhad,Credit Card,6080034.0
+ORD1188,2026-04-02,1165,Beauty,Skincare Cream,1,703320.0,Mashhad,Online,703320.0
+ORD1281,2026-05-24,1133,Sports,Bicycle,1,8279673.0,Tehran,Credit Card,8279673.0
+ORD1514,2026-06-25,1020,Home & Kitchen,Blender,1,1669022.0,Isfahan,Online,1669022.0
+ORD1437,2026-02-22,1032,Sports,Football,3,630898.0,Isfahan,Online,1892694.0
+ORD1773,2026-01-25,1171,Home & Kitchen,Cookware Set,3,3147411.0,Shiraz,Online,9442233.0
+ORD1582,2026-03-30,1046,Sports,Bicycle,2,8489960.0,Mashhad,Credit Card,16979920.0
+ORD1780,2026-06-04,1227,BEAUTY,Shampoo,3,226826.0,Shiraz,Credit Card,680478.0
+ORD1378,2026-03-14,1273,Sports,Yoga Mat,-2,472641.0,Shiraz,Credit Card,-945282.0
+ORD1806,2026-06-24,1081,Books,Cookbook,2,,Isfahan,Credit Card,
+ORD1762,2026-01-09,1201,Sports,Tennis Racket,4,1823540.0,Tabriz,Credit Card,7294160.0
+ORD1089,2026-04-18,1279,Home & Kitchen,Vacuum Cleaner,3,4479994.0,Tabriz,Online,13439982.0
+ORD1213,2026-01-29,1249,Books,Novel,1,238970.0,,Online,238970.0
+ORD1321,2026-06-26,1256,Home & Kitchen,Cookware Set,1,3309873.0,Mashhad,Credit Card,3309873.0
+ORD1842,2026-01-20,1088,Sports,Bicycle,4,,Isfahan,Credit Card,
+ORD1133,2026-06-22,1010,Electronics,Laptop,1,24350460.0,Tabriz,Online,24350460.0
+ORD1346,2026-06-25,1159,Sports,Dumbbell Set,1,2554037.0,Tabriz,Online,2554037.0
+ORD1043,2026-05-16,1260,Sports,Bicycle,4,9056675.0,Mashhad,Cash,36226700.0
+ORD1007,2026-04-07,1150,Books,Novel,5,264647.0,Tehran,Online,1323235.0
+ORD1525,2026-02-21,1278,Home & Kitchen,Cookware Set,1,3183970.0,Tabriz,Cash,3183970.0
+ORD1754,2026-06-29,1147,Home & Kitchen,Lamp,2,848055.0,Isfahan,Cash,1696110.0
+ORD1669,2026-06-10,1154,Home & Kitchen,Lamp,1,869053.0,Tabriz,Online,869053.0
+ORD1187,2026-05-19,1056,Home & Kitchen,Sofa,5,12105985.0,Isfahan,Cash,60529925.0
+ORD1122,2026-06-05,1115,Electronics,Smart Watch,3,5825283.0,Tabriz,Online,17475849.0
+ORD1040,2026-04-27,1284,Sports,Dumbbell Set,4,2348815.0,Isfahan,Credit Card,9395260.0
+ORD1304,2026-03-22,1255,Clothing,Jacket,4,1554261.0,Mashhad,Cash,6217044.0
+ORD1621,2026-01-01,1045,Beauty,Lipstick,1,362328.0,Tehran,Online,362328.0
+ORD1635,2026-05-23,1005,BEAUTY,Lipstick,1,376802.0,Tabriz,Cash,376802.0
+ORD1172,2026-05-04,1173,Home & Kitchen,Sofa,1,12023218.0,,Online,12023218.0
+ORD1284,2026-07-01,1277,Electronics,Headphones,2,1215029.0,Tehran,Online,2430058.0
+ORD1800,2026-04-23,1046,Home & Kitchen,Vacuum Cleaner,1,4649211.0,Tehran,Cash,4649211.0
+ORD1240,2026-01-05,1092,Electronics,Tablet,2,14986627.0,Isfahan,Credit Card,29973254.0
+ORD1849,2026-01-22,1025,Sports,Yoga Mat,1,456867.0,Shiraz,Online,456867.0
+ORD1511,2026-02-21,1055,Home & Kitchen,Sofa,1,11843026.0,Mashhad,Online,11843026.0
+ORD1526,2026-04-02,1248,Electronics,Tablet,3,13809195.0,Shiraz,Online,41427585.0
+ORD1600,2026-04-08,1211,Books,Novel,4,236757.0,Tabriz,Credit Card,947028.0
+ORD1245,2026-03-02,1145,Electronics,Tablet,1,,Shiraz,Online,
+ORD1056,2026-01-29,1076,Books,Textbook,2,467079.0,Tehran,Online,934158.0
+ORD1649,2026-05-10,1002,Sports,Tennis Racket,2,1899526.0,Mashhad,Credit Card,3799052.0
+ORD1071,2026-05-22,1215,Home & Kitchen,Cookware Set,2,3045742.0,Mashhad,Cash,6091484.0
+ORD1641,2026-06-08,1287,Electronics,Laptop,3,24288316.0,Isfahan,Online,72864948.0
+ORD1145,2026-03-04,1074,Sports,Tennis Racket,5,1759213.0,Shiraz,Online,8796065.0
+ORD1090,2026-03-11,1014,Books,Cookbook,2,281740.0,Shiraz,Credit Card,563480.0
+ORD1166,2026-05-25,1254,Electronics,Tablet,1,13598547.0,Tehran,Online,13598547.0
+ORD1392,2026-04-01,1040,Books,Comic Book,1,146928.0,Isfahan,Credit Card,146928.0
+ORD1841,2026-03-07,1292,Home & Kitchen,Lamp,1,,Isfahan,Cash,
+ORD1170,2026-03-17,1212,Beauty,Perfume,1,1645456.0,Isfahan,Online,1645456.0
+ORD1310,2026-04-26,1060,Home & Kitchen,Blender,-1,1782423.0,Tabriz,Credit Card,-1782423.0
+ORD1361,2026-02-28,1177,Sports,Bicycle,1,8694871.0,Mashhad,Credit Card,8694871.0
+ORD1359,2026-05-18,1065,CLOTHING,Jacket,1,1518113.0,Shiraz,Online,1518113.0
+ORD1093,2026-04-29,1133,Electronics,Tablet,1,14137260.0,Mashhad,Cash,14137260.0
+ORD1322,2026-01-16,1106,Books,Textbook,4,512815.0,Mashhad,Online,2051260.0
+ORD1420,2026-02-16,1236,Clothing,Hat,5,261663.0,Tabriz,Cash,1308315.0
+ORD1412,2026-03-10,1252,Clothing,Running Shoes,1,2358613.0,Isfahan,Credit Card,2358613.0
+ORD1592,2026-01-07,1132,Beauty,Shampoo,2,208802.0,Shiraz,Credit Card,417604.0
+ORD1750,2026-01-30,1275,Books,Biography,1,262837.0,Tabriz,Credit Card,262837.0
+ORD1652,2026-06-05,1203,books,Textbook,1,506947.0,Mashhad,Credit Card,506947.0
+ORD1376,2026-03-27,1108,Clothing,Running Shoes,1,2321396.0,Isfahan,Cash,2321396.0
+ORD1395,2026-01-22,1169,Electronics,Laptop,3,26723029.0,Shiraz,Credit Card,80169087.0
+ORD1243,2026-06-08,1192,Electronics,Headphones,4,1175070.0,Mashhad,Online,4700280.0
+ORD1087,2026-02-22,1299,Books,Textbook,1,511004.0,Shiraz,Credit Card,511004.0
+ORD1214,2026-04-12,1003,Books,Biography,1,289505.0,Tabriz,Cash,289505.0
+ORD1344,2026-03-19,1293,Sports,Dumbbell Set,5,2459401.0,Tabriz,Online,12297005.0
+ORD1173,2026-02-06,1203,Electronics,Tablet,5,13387350.0,Mashhad,Online,66936750.0
+ORD1677,2026-06-16,1263,Sports,Tennis Racket,1,1868948.0,Mashhad,Credit Card,1868948.0
+ORD1291,2026-01-15,1078,Sports,Bicycle,4,7870793.0,Tehran,Online,31483172.0
+ORD1425,2026-01-22,1181,Home & Kitchen,Lamp,2,907132.0,Tehran,Cash,1814264.0
+ORD1715,2026-05-12,1076,Sports,Yoga Mat,1,480926.0,Isfahan,Cash,480926.0
+ORD1118,2026-05-06,1293,Beauty,Perfume,2,1700495.0,Tehran,Cash,3400990.0
+ORD1119,2026-03-29,1129,Home & Kitchen,Cookware Set,2,3220143.0,Mashhad,Cash,6440286.0
+ORD1163,2026-03-30,1217,clothing,T-Shirt,1,352003.0,Tabriz,Credit Card,352003.0
+ORD1541,2026-01-01,1290,Home & Kitchen,Vacuum Cleaner,1,4576445.0,Tabriz,Credit Card,4576445.0
+ORD1384,2026-06-14,1086,Home & Kitchen,Cookware Set,5,3320356.0,Shiraz,Credit Card,16601780.0
+ORD1718,2026-01-12,1082,Beauty,Lipstick,1,357157.0,Mashhad,Online,357157.0
+ORD1394,2026-04-08,1243,Beauty,Skincare Cream,1,682169.0,Shiraz,Online,682169.0
+ORD1401,2026-03-30,1223,Beauty,Skincare Cream,2,745085.0,Tehran,Cash,1490170.0
+ORD1404,2026-06-24,1194,Books,Textbook,1,485603.0,Tabriz,Online,485603.0
+ORD1775,2026-06-23,1295,Sports,Football,1,,,Cash,
+ORD1531,2026-06-01,1183,Home & Kitchen,Sofa,1,12959457.0,Isfahan,Online,12959457.0
+ORD1162,2026-04-30,1279,Beauty,Skincare Cream,4,714955.0,Isfahan,Online,2859820.0
+ORD1320,2026-01-29,1225,Electronics,Smart Watch,4,6047257.0,Mashhad,Cash,24189028.0
+ORD1114,2026-05-18,1110,Electronics,Mobile Phone,1,18384202.0,Mashhad,Cash,18384202.0
+ORD1158,2026-01-08,1028,Sports,Yoga Mat,2,431109.0,Tehran,Credit Card,862218.0
+ORD1150,2026-03-03,1119,Home & Kitchen,Sofa,5,12783870.0,Tabriz,Credit Card,63919350.0
+ORD1485,2026-04-19,1274,Beauty,Sunscreen,3,478883.0,Shiraz,Cash,1436649.0
+ORD1467,2026-03-12,1184,Beauty,Shampoo,1,232974.0,Tehran,Online,232974.0
+ORD1634,2026-06-19,1177,Beauty,Sunscreen,1,421716.0,Mashhad,Credit Card,421716.0
+ORD1368,2026-06-01,1218,Home & Kitchen,Vacuum Cleaner,1,4280969.0,Mashhad,Online,4280969.0
+ORD1031,2026-03-02,1248,Electronics,Headphones,1,1136740.0,Isfahan,Online,1136740.0
+ORD1377,2026-05-03,1104,Clothing,T-Shirt,3,323303.0,Mashhad,Online,969909.0
+ORD1662,2026-05-11,1024,Clothing,Hat,1,254230.0,Isfahan,Online,254230.0
+ORD1020,2026-05-18,1174,Beauty,Skincare Cream,2,712527.0,Isfahan,Online,1425054.0
+ORD1471,2026-06-28,1216,Books,Textbook,1,537590.0,Isfahan,Cash,537590.0
+ORD1113,2026-03-11,1118,Home & Kitchen,Vacuum Cleaner,3,4721846.0,Isfahan,Credit Card,14165538.0
+ORD1785,2026-04-10,1126,Books,Cookbook,1,319605.0,Isfahan,Cash,319605.0
+ORD1000,2026-03-12,1071,Beauty,Skincare Cream,1,685948.0,Mashhad,Cash,685948.0
+ORD1733,2026-01-28,1299,Beauty,Shampoo,1,220811.0,Mashhad,Credit Card,220811.0
+ORD1728,2026-04-05,1271,Beauty,Lipstick,2,361858.0,Tehran,Online,723716.0
+ORD1818,2026-04-26,1277,Clothing,T-Shirt,2,325066.0,Isfahan,Credit Card,650132.0
+ORD1491,2026-03-08,1064,Home & Kitchen,Lamp,2,917299.0,Mashhad,Credit Card,1834598.0
+ORD1734,2026-04-19,1141,HOME & KITCHEN,Vacuum Cleaner,4,4398357.0,Tabriz,Credit Card,17593428.0
+ORD1571,2026-02-14,1073,Books,Comic Book,2,156807.0,Isfahan,Credit Card,313614.0
+ORD1258,2026-05-08,1008,Electronics,Laptop,3,25280244.0,Tabriz,Online,75840732.0
+ORD1831,2026-01-28,1234,Books,Comic Book,1,148858.0,Tabriz,Credit Card,148858.0
+ORD1314,2026-03-23,1153,Clothing,Jacket,4,1580635.0,Mashhad,Credit Card,6322540.0
+ORD1736,2026-05-04,1295,Clothing,Jacket,2,1474186.0,Isfahan,Credit Card,2948372.0
+ORD1135,2026-04-22,1240,Home & Kitchen,Sofa,5,11660549.0,Shiraz,Cash,58302745.0
+ORD1574,2026-05-06,1068,Home & Kitchen,Vacuum Cleaner,-1,4760901.0,Tehran,Cash,-4760901.0
+ORD1004,2026-01-02,1216,Sports,Bicycle,1,8032185.0,Mashhad,Online,8032185.0
+ORD1540,2026-02-27,1193,Beauty,Sunscreen,3,4826910.0,Tabriz,Cash,14480730.0
+ORD1324,2026-03-29,1135,Clothing,Running Shoes,4,2360112.0,Tabriz,Credit Card,9440448.0
+ORD1330,2026-05-18,1139,Beauty,Lipstick,1,371243.0,Isfahan,Online,371243.0
+ORD1447,2026-05-07,1251,Sports,Bicycle,2,8844594.0,Shiraz,Online,17689188.0
+ORD1671,2026-05-10,1278,Clothing,Hat,1,265870.0,Mashhad,Credit Card,265870.0
+ORD1339,2026-02-04,1139,Books,Textbook,4,467826.0,Tabriz,Credit Card,1871304.0
+ORD1297,2026-04-17,1015,Home & Kitchen,Sofa,3,11454376.0,Tabriz,Online,34363128.0
+ORD1080,2026-05-23,1233,clothing,Hat,2,264524.0,Mashhad,Cash,529048.0
+ORD1683,2026-01-05,1060,Sports,Tennis Racket,1,1951267.0,Shiraz,Online,1951267.0
+ORD1026,2026-02-02,1084,Electronics,Smart Watch,3,5711686.0,Shiraz,Online,17135058.0
+ORD1557,2026-05-01,1135,Electronics,Headphones,3,1109526.0,Shiraz,Online,3328578.0
+ORD1216,2026-04-21,1194,electronics,Laptop,2,,Mashhad,Cash,
+ORD1637,2026-03-13,1114,Sports,Dumbbell Set,1,2396988.0,Tehran,Online,2396988.0
+ORD1343,2026-01-02,1120,Sports,Dumbbell Set,4,2473540.0,Isfahan,Credit Card,9894160.0
+ORD1667,2026-03-09,1299,Electronics,Tablet,1,13239926.0,Mashhad,Cash,13239926.0
+ORD1530,2026-01-15,1198,Home & Kitchen,Lamp,3,945057.0,Mashhad,Online,2835171.0
+ORD1293,2026-06-12,1064,Home & Kitchen,Blender,1,1759734.0,Tabriz,Credit Card,1759734.0
+ORD1364,2026-01-13,1022,Sports,Bicycle,2,9100392.0,Mashhad,Online,18200784.0
+ORD1739,2026-06-12,1074,Books,Novel,1,245077.0,Tehran,Cash,245077.0
+ORD1147,2026-05-10,1144,Sports,Dumbbell Set,4,2501071.0,Isfahan,Cash,10004284.0
+ORD1484,2026-01-16,1146,Electronics,Headphones,1,1216188.0,Shiraz,Online,1216188.0
+ORD1014,2026-05-26,1255,Sports,Dumbbell Set,1,2372729.0,Isfahan,Cash,2372729.0
+ORD1174,2026-04-12,1274,Books,Biography,1,286503.0,Tehran,Credit Card,286503.0
+ORD1086,2026-01-17,1169,SPORTS,Yoga Mat,3,466531.0,Shiraz,Credit Card,1399593.0
+ORD1370,2026-03-18,1275,Beauty,Lipstick,1,355727.0,Shiraz,Cash,355727.0
+ORD1165,2026-04-02,1151,Electronics,Mobile Phone,1,18965671.0,Tabriz,Credit Card,18965671.0
+ORD1756,2026-05-27,1097,Sports,Dumbbell Set,1,2548029.0,Isfahan,Cash,2548029.0
+ORD1335,2026-01-23,1273,Beauty,Skincare Cream,4,648561.0,Tabriz,Cash,2594244.0
+ORD1059,2026-05-24,1079,Beauty,Skincare Cream,1,680436.0,Shiraz,Online,680436.0
+ORD1354,2026-05-25,1236,Clothing,Hat,1,232822.0,Tehran,Online,232822.0
+ORD1424,2026-06-27,1018,Books,Comic Book,4,139381.0,Shiraz,Online,557524.0
+ORD1292,2026-07-01,1265,Home & Kitchen,Sofa,1,12619393.0,Mashhad,Credit Card,12619393.0
+ORD1041,2026-03-17,1296,beauty,Lipstick,1,379706.0,Mashhad,Cash,379706.0
+ORD1329,2026-01-21,1131,Electronics,Headphones,5,1151564.0,Isfahan,Credit Card,5757820.0
+ORD1429,2026-02-08,1247,Sports,Bicycle,2,7979211.0,Isfahan,Cash,15958422.0
+ORD1079,2026-01-02,1112,Clothing,Jeans,2,750831.0,Tehran,Credit Card,1501662.0
+ORD1028,2026-06-21,1264,beauty,Shampoo,1,223252.0,Isfahan,Credit Card,223252.0
+ORD1254,2026-05-01,1240,Electronics,Headphones,4,1136542.0,Mashhad,Online,4546168.0
+ORD1644,2026-06-18,1174,Beauty,Lipstick,1,356881.0,Mashhad,Cash,356881.0
+ORD1458,2026-02-02,1074,electronics,Headphones,4,1114810.0,Mashhad,Cash,4459240.0
+ORD1383,2026-03-04,1172,Home & Kitchen,Sofa,1,12724746.0,Shiraz,Online,12724746.0
+ORD1313,2026-05-13,1263,Clothing,Jacket,3,1611035.0,Shiraz,Cash,4833105.0
+ORD1084,2026-01-20,1139,Beauty,Perfume,1,,Isfahan,Cash,
+ORD1136,2026-06-21,1168,Home & Kitchen,Cookware Set,1,3209620.0,Tehran,Cash,3209620.0
+ORD1111,2026-03-04,1297,Home & Kitchen,Sofa,1,11349544.0,Isfahan,Online,11349544.0
+ORD1194,2026-03-12,1299,BOOKS,Cookbook,1,292273.0,Tabriz,Online,292273.0
+ORD1178,2026-01-12,1252,Beauty,Lipstick,1,406553.0,Tehran,Credit Card,406553.0
+ORD1496,2026-01-04,1241,Electronics,Laptop,4,25334624.0,Mashhad,Cash,101338496.0
+ORD1129,2026-02-06,1084,Clothing,Jeans,4,801375.0,Tehran,Cash,3205500.0
+ORD1337,2026-03-16,1152,Sports,Tennis Racket,1,1961911.0,Tehran,Cash,1961911.0
+ORD1124,2026-06-06,1108,home & kitchen,Lamp,2,860822.0,Tehran,Cash,1721644.0
+ORD1819,2026-06-13,1094,Home & Kitchen,Cookware Set,1,,Tabriz,Credit Card,
+ORD1226,2026-05-25,1289,Clothing,Running Shoes,2,2366499.0,Tabriz,Credit Card,4732998.0
+ORD1268,2026-01-10,1182,Sports,Bicycle,2,8308907.0,Mashhad,Credit Card,16617814.0
+ORD1833,2026-05-17,1180,Books,Biography,2,265502.0,Tabriz,Credit Card,531004.0
+ORD1103,2026-04-03,1078,sports,Football,1,600822.0,Shiraz,Online,600822.0
+ORD1732,2026-01-02,1105,Books,Comic Book,1,153964.0,Shiraz,Online,153964.0
+ORD1688,2026-06-15,1283,Beauty,Perfume,1,1668990.0,Isfahan,Cash,1668990.0
+ORD1227,2026-06-10,1225,Beauty,Sunscreen,1,442303.0,Isfahan,Cash,442303.0
+ORD1758,2026-04-02,1061,Clothing,Jeans,3,850418.0,Mashhad,Cash,2551254.0
+ORD1301,2026-02-03,1287,Beauty,Shampoo,5,221103.0,Isfahan,Online,1105515.0
+ORD1275,2026-06-13,1262,Beauty,Skincare Cream,1,700169.0,Shiraz,Credit Card,700169.0
+ORD1126,2026-06-02,1016,electronics,Tablet,2,14712353.0,Shiraz,Credit Card,29424706.0
+ORD1405,2026-03-05,1137,Electronics,Smart Watch,-1,6379702.0,Tehran,Cash,-6379702.0
+ORD1830,2026-05-15,1091,Books,Textbook,1,477968.0,Mashhad,Online,477968.0
+ORD1036,2026-02-16,1127,Books,Textbook,1,484369.0,Isfahan,Credit Card,484369.0
+ORD1139,2026-01-14,1185,Beauty,Sunscreen,2,483968.0,Mashhad,Online,967936.0
+ORD1303,2026-04-09,1127,Clothing,T-Shirt,1,357696.0,Tabriz,Credit Card,357696.0
+ORD1267,2026-01-11,1263,Clothing,T-Shirt,3,361339.0,Isfahan,Credit Card,1084017.0
+ORD1533,2026-05-07,1089,Books,Cookbook,3,302660.0,Tabriz,Credit Card,907980.0
+ORD1545,2026-01-18,1055,Home & Kitchen,Sofa,1,11727672.0,Isfahan,Credit Card,11727672.0
+ORD1212,2026-04-24,1110,Beauty,Lipstick,2,389239.0,Shiraz,Credit Card,778478.0
+ORD1468,2026-06-16,1202,Home & Kitchen,Blender,1,1720395.0,Mashhad,Cash,1720395.0
+ORD1198,2026-03-22,1130,Sports,Tennis Racket,3,2017674.0,Shiraz,Credit Card,6053022.0
+ORD1527,2026-04-10,1013,Home & Kitchen,Lamp,2,867370.0,Isfahan,Cash,1734740.0
+ORD1679,2026-04-19,1275,Clothing,Jeans,4,846784.0,Tehran,Cash,3387136.0
+ORD1241,2026-05-05,1070,Clothing,Jacket,4,1608942.0,Mashhad,Cash,6435768.0
+ORD1342,2026-04-13,1071,Sports,Bicycle,1,8055554.0,Tehran,Cash,8055554.0
+ORD1549,2026-01-19,1192,Home & Kitchen,Vacuum Cleaner,5,4696069.0,Isfahan,Cash,23480345.0
+ORD1386,2026-01-20,1211,Beauty,Skincare Cream,2,675587.0,Tehran,Cash,1351174.0
+ORD1737,2026-06-18,1117,Home & Kitchen,Cookware Set,3,3362098.0,Tehran,Online,10086294.0
+ORD1206,2026-06-27,1092,Electronics,Smart Watch,4,5617412.0,Isfahan,Cash,22469648.0
+ORD1295,2026-06-18,1172,Books,Comic Book,1,150533.0,Tabriz,Online,150533.0
+ORD1657,2026-06-20,1273,Sports,Bicycle,2,8313791.0,Shiraz,Online,16627582.0
+ORD1073,2026-03-19,1220,Sports,Bicycle,3,8929027.0,Isfahan,Cash,26787081.0
+ORD1104,2026-06-16,1275,Sports,Yoga Mat,3,479344.0,Isfahan,Online,1438032.0
+ORD1606,2026-04-06,1271,Electronics,Laptop,2,23825334.0,Tehran,Credit Card,47650668.0
+ORD1822,2026-03-24,1164,Books,Cookbook,-2,292007.0,Shiraz,Online,-584014.0
+ORD1016,2026-04-20,1185,Books,Biography,3,271230.0,Tabriz,Credit Card,813690.0
+ORD1439,2026-06-21,1160,Clothing,Running Shoes,1,2052634.0,Shiraz,Online,2052634.0
+ORD1091,2026-04-14,1065,SPORTS,Dumbbell Set,2,2585297.0,Mashhad,Credit Card,5170594.0
+ORD1088,2026-05-28,1003,Beauty,Skincare Cream,4,743367.0,Shiraz,Credit Card,2973468.0
+ORD1450,2026-01-29,1137,Books,Textbook,2,522171.0,Tabriz,Cash,1044342.0
+ORD1102,2026-06-15,1215,Sports,Dumbbell Set,1,2425742.0,Isfahan,Cash,2425742.0
+ORD1238,2026-06-28,1043,HOME & KITCHEN,Vacuum Cleaner,5,,Shiraz,Cash,
+ORD1616,2026-06-25,1215,Sports,Yoga Mat,1,418397.0,Tehran,Credit Card,418397.0
+ORD1246,2026-03-03,1099,beauty,Lipstick,1,375633.0,Isfahan,Credit Card,375633.0
+ORD1609,2026-03-16,1266,Electronics,Laptop,1,25761579.0,Shiraz,Online,25761579.0
+ORD1157,2026-01-24,1051,BEAUTY,Shampoo,5,229209.0,Shiraz,Cash,1146045.0
+ORD1479,2026-06-05,1200,beauty,Shampoo,1,220813.0,Tabriz,Cash,220813.0
+ORD1724,2026-02-28,1067,Sports,Bicycle,2,8601283.0,Shiraz,Credit Card,17202566.0
+ORD1816,2026-05-19,1290,Beauty,Lipstick,2,385549.0,Shiraz,Cash,771098.0
+ORD1018,2026-04-19,1197,Beauty,Perfume,3,1582577.0,Tabriz,Cash,4747731.0
+ORD1812,2026-06-10,1182,Electronics,Smart Watch,1,5639676.0,Tehran,Cash,5639676.0
+ORD1121,2026-05-25,1127,Beauty,Skincare Cream,1,744362.0,Isfahan,Cash,744362.0
+ORD1603,2026-01-15,1140,Beauty,Perfume,1,1494707.0,Tehran,Credit Card,1494707.0
+ORD1274,2026-04-01,1140,Home & Kitchen,Cookware Set,1,3205807.0,Tabriz,Credit Card,3205807.0
+ORD1433,2026-01-30,1055,Home & Kitchen,Blender,3,1685123.0,Tehran,Credit Card,5055369.0
+ORD1767,2026-06-29,1205,Sports,Tennis Racket,1,2014536.0,Isfahan,Credit Card,2014536.0
+ORD1311,2026-03-28,1073,Clothing,T-Shirt,1,326393.0,Tabriz,Credit Card,326393.0
+ORD1753,2026-02-26,1211,Home & Kitchen,Blender,1,1752452.0,Mashhad,Credit Card,1752452.0
+ORD1714,2026-06-04,1071,Home & Kitchen,Cookware Set,3,3122620.0,Tehran,Online,9367860.0
+ORD1546,2026-04-23,1211,beauty,Skincare Cream,1,656718.0,Shiraz,Cash,656718.0
+ORD1181,2026-03-13,1189,Sports,Bicycle,1,,Tehran,Online,
+ORD1184,2026-06-02,1170,Electronics,Mobile Phone,2,17302871.0,Tehran,Cash,34605742.0
+ORD1406,2026-06-12,1199,Clothing,Running Shoes,3,2160998.0,Mashhad,Online,6482994.0
+ORD1520,2026-01-24,1021,Clothing,Running Shoes,3,2233134.0,Isfahan,Cash,6699402.0
+ORD1380,2026-03-23,1160,Electronics,Tablet,3,13144689.0,Mashhad,Credit Card,39434067.0
+ORD1410,2026-03-25,1149,Electronics,Smart Watch,2,5826541.0,Shiraz,Cash,11653082.0
+ORD1369,2026-03-30,1163,Books,Textbook,1,465548.0,Shiraz,Online,465548.0
+ORD1695,2026-06-08,1162,Clothing,Jeans,1,814159.0,Tehran,Cash,814159.0
+ORD1712,2026-04-04,1039,Clothing,Running Shoes,2,2189994.0,Tabriz,Online,4379988.0
+ORD1643,2026-06-03,1186,Home & Kitchen,Lamp,3,875159.0,Shiraz,Online,2625477.0
+ORD1078,2026-06-28,1204,Sports,Bicycle,1,8307513.0,Shiraz,Credit Card,8307513.0
+ORD1573,2026-05-02,1010,beauty,Perfume,1,1631254.0,Isfahan,Credit Card,1631254.0
+ORD1607,2026-06-10,1176,Clothing,T-Shirt,2,342399.0,Mashhad,Cash,684798.0
+ORD1680,2026-01-19,1235,Beauty,Lipstick,2,399277.0,Mashhad,Cash,798554.0
+ORD1847,2026-02-09,1201,Home & Kitchen,Lamp,2,971549.0,Tehran,Online,1943098.0
+ORD1749,2026-05-10,1037,Electronics,Headphones,1,1223853.0,Tehran,Online,1223853.0
+ORD1789,2026-06-13,1177,Beauty,Sunscreen,1,,Tabriz,Credit Card,
+ORD1416,2026-06-16,1153,Home & Kitchen,Cookware Set,1,3094123.0,Tabriz,Cash,3094123.0
+ORD1632,2026-03-22,1268,Electronics,Laptop,1,25046709.0,Tehran,Online,25046709.0
+ORD1561,2026-05-31,1031,Books,Textbook,5,477037.0,Mashhad,Online,2385185.0
+ORD1067,2026-01-30,1097,Sports,Bicycle,5,8910987.0,,Online,44554935.0
+ORD1536,2026-03-24,1075,Beauty,Perfume,4,1689509.0,Tehran,Cash,6758036.0
+ORD1077,2026-05-02,1233,Clothing,T-Shirt,1,326146.0,Tabriz,Cash,326146.0
+ORD1105,2026-06-01,1125,Sports,Tennis Racket,1,1823784.0,Isfahan,Credit Card,1823784.0
+ORD1610,2026-06-25,1250,Books,Comic Book,1,138943.0,Mashhad,Credit Card,138943.0
+ORD1666,2026-02-14,1193,Clothing,T-Shirt,1,335773.0,Tabriz,Cash,335773.0
+ORD1559,2026-04-30,1137,Sports,Football,1,,Isfahan,Cash,
+ORD1744,2026-06-22,1122,Beauty,Perfume,2,1531446.0,Tehran,Credit Card,3062892.0
+ORD1801,2026-03-29,1255,Clothing,T-Shirt,2,330542.0,Shiraz,Credit Card,661084.0
+ORD1664,2026-04-24,1188,Electronics,Headphones,1,1123542.0,Mashhad,Online,1123542.0
+ORD1490,2026-06-29,1254,Electronics,Laptop,3,24822627.0,Tehran,Cash,74467881.0
+ORD1480,2026-03-03,1057,Home & Kitchen,Blender,3,1837266.0,Shiraz,Credit Card,5511798.0
+ORD1723,2026-03-09,1175,Clothing,Hat,2,259644.0,Mashhad,Online,519288.0
+ORD1605,2026-04-14,1196,Books,Textbook,2,496862.0,Shiraz,Credit Card,993724.0
+ORD1363,2026-01-18,1017,Books,Novel,1,251824.0,Tehran,Online,251824.0
+ORD1069,2026-06-20,1160,Home & Kitchen,Cookware Set,1,3449286.0,Isfahan,Online,3449286.0
+ORD1548,2026-01-19,1010,Beauty,Perfume,1,1605198.0,Tehran,Credit Card,1605198.0
+ORD1160,2026-01-21,1123,Books,Cookbook,1,293653.0,Tabriz,Credit Card,293653.0
+ORD1011,2026-06-24,1087,Clothing,Jacket,3,1612778.0,Tehran,Online,4838334.0
+ORD1144,2026-03-16,1139,Beauty,Perfume,2,1544919.0,Tabriz,Online,3089838.0
+ORD1517,2026-04-29,1062,Books,Comic Book,1,157453.0,Tehran,Cash,157453.0
+ORD1427,2026-02-26,1265,Electronics,Laptop,1,26550816.0,Tabriz,Online,26550816.0
+ORD1639,2026-05-08,1060,BOOKS,Textbook,1,490182.0,Shiraz,Credit Card,490182.0
+ORD1176,2026-03-01,1287,Beauty,Shampoo,1,226721.0,Shiraz,Cash,226721.0
+ORD1440,2026-05-31,1180,Books,Textbook,2,466787.0,Tehran,Credit Card,933574.0
+ORD1521,2026-05-27,1202,SPORTS,Football,1,588565.0,Shiraz,Online,588565.0
+ORD1747,2026-05-24,1177,Electronics,Smart Watch,1,6041810.0,Tabriz,Credit Card,6041810.0
+ORD1805,2026-01-09,1048,Sports,Tennis Racket,1,1971879.0,Mashhad,Credit Card,1971879.0
+ORD1231,2026-01-11,1096,Sports,Tennis Racket,2,1900801.0,Shiraz,Online,3801602.0
+ORD1210,2026-05-26,1026,Beauty,Shampoo,3,221715.0,Tabriz,Cash,665145.0
+ORD1640,2026-04-16,1281,Sports,Football,1,553926.0,Tehran,Online,553926.0
+ORD1143,2026-02-27,1060,electronics,Smart Watch,1,5808843.0,Tehran,Credit Card,5808843.0
+ORD1519,2026-03-08,1033,Home & Kitchen,Blender,2,1699320.0,Tehran,Cash,3398640.0
+ORD1004,2026-01-02,1216,Sports,Bicycle,1,8032185.0,Mashhad,Online,8032185.0
+ORD1298,2026-03-19,1207,Sports,Bicycle,1,,Shiraz,Cash,
+ORD1428,2026-02-26,1200,Books,Comic Book,2,146421.0,Shiraz,Credit Card,292842.0
+ORD1612,2026-01-06,1086,Beauty,Perfume,1,1632742.0,Tabriz,Online,1632742.0
+ORD1793,2026-06-02,1280,Electronics,Tablet,3,14249657.0,Mashhad,Cash,42748971.0
+ORD1008,2026-04-03,1035,Beauty,Sunscreen,4,,Tabriz,Cash,
+ORD1156,2026-01-10,1120,Beauty,Lipstick,4,390465.0,Tabriz,Cash,1561860.0
+ORD1539,2026-05-05,1287,Clothing,Running Shoes,3,2069464.0,Isfahan,Cash,6208392.0
+ORD1506,2026-01-16,1143,Clothing,Running Shoes,2,2344646.0,Mashhad,Online,4689292.0
+ORD1436,2026-06-07,1219,Clothing,Running Shoes,1,2049612.0,Mashhad,Credit Card,2049612.0
+ORD1266,2026-01-17,1150,Beauty,Perfume,3,1650436.0,Shiraz,Cash,4951308.0
+ORD1461,2026-06-27,1249,Sports,Bicycle,3,8702926.0,Isfahan,Credit Card,26108778.0
+ORD1576,2026-02-24,1248,Books,Novel,1,235882.0,Shiraz,Online,235882.0
+ORD1338,2026-03-27,1278,Books,Comic Book,1,149380.0,Isfahan,Credit Card,149380.0
+ORD1255,2026-01-21,1110,Sports,Bicycle,1,8577249.0,Tehran,Credit Card,8577249.0
+ORD1690,2026-03-20,1176,Books,Comic Book,4,145768.0,Mashhad,Online,583072.0
+ORD1729,2026-05-04,1294,Sports,Yoga Mat,4,425783.0,Shiraz,Credit Card,1703132.0
+ORD1665,2026-02-20,1229,Books,Comic Book,3,141668.0,Mashhad,Credit Card,425004.0
+ORD1560,2026-06-28,1176,Books,Novel,1,258163.0,Tehran,Cash,258163.0
+ORD1208,2026-06-12,1271,Books,Textbook,1,460404.0,Tehran,Cash,460404.0
+ORD1287,2026-04-30,1044,Home & Kitchen,Lamp,2,906140.0,Tabriz,Cash,1812280.0
+ORD1001,2026-05-20,1216,Beauty,Skincare Cream,2,750480.0,Tehran,Online,1500960.0
+ORD1341,2026-05-26,1207,Electronics,Headphones,3,1194906.0,Mashhad,Cash,3584718.0
+ORD1269,2026-04-05,1225,Electronics,Headphones,1,1160369.0,Shiraz,Credit Card,1160369.0
+ORD1265,2026-02-14,1245,Books,Biography,3,290786.0,Shiraz,Online,872358.0
+ORD1699,2026-04-29,1156,Clothing,Jacket,4,1495473.0,Shiraz,Credit Card,5981892.0
+ORD1836,2026-04-26,1000,Books,Biography,1,298585.0,Shiraz,Credit Card,298585.0
+ORD1095,2026-05-01,1276,Sports,Dumbbell Set,3,2497518.0,Tehran,Online,7492554.0
+ORD1828,2026-03-10,1036,Home & Kitchen,Blender,3,1868400.0,Tabriz,Cash,5605200.0
+ORD1042,2026-03-22,1299,Beauty,Sunscreen,1,416475.0,Tehran,Cash,416475.0
+ORD1689,2026-01-02,1201,books,Cookbook,1,284978.0,Tabriz,Online,284978.0
+ORD1461,2026-06-27,1249,Sports,Bicycle,3,8702926.0,Isfahan,Credit Card,26108778.0
+ORD1713,2026-02-27,1180,Books,Biography,1,276050.0,Tabriz,Credit Card,276050.0
+ORD1628,2026-06-16,1067,Sports,Tennis Racket,3,1759151.0,Mashhad,Cash,5277453.0
+ORD1045,2026-01-11,1214,books,Cookbook,2,307801.0,Tabriz,Cash,615602.0
+ORD1161,2026-04-29,1130,Sports,Bicycle,1,8679935.0,Isfahan,Credit Card,8679935.0
+ORD1629,2026-02-10,1247,Beauty,Skincare Cream,5,672272.0,Tehran,Credit Card,3361360.0
+ORD1288,2026-05-03,1209,Electronics,Headphones,1,1159015.0,Tabriz,Credit Card,1159015.0
+ORD1589,2026-03-18,1032,Books,Comic Book,2,141645.0,Tehran,Credit Card,283290.0
+ORD1765,2026-03-08,1134,Home & Kitchen,Vacuum Cleaner,2,4550320.0,Mashhad,Online,9100640.0
+ORD1815,2026-02-04,1248,Electronics,Tablet,1,14042197.0,Isfahan,Cash,14042197.0
+ORD1575,2026-03-24,1213,HOME & KITCHEN,Cookware Set,3,3430154.0,Isfahan,Online,10290462.0
+ORD1315,2026-05-11,1288,Books,Biography,2,288779.0,Tabriz,Credit Card,577558.0
+ORD1230,2026-01-24,1259,Home & Kitchen,Vacuum Cleaner,1,4712264.0,,Online,4712264.0
+ORD1698,2026-06-14,1184,Home & Kitchen,Sofa,3,11336376.0,Shiraz,Credit Card,34009128.0
+ORD1707,2026-02-07,1020,Books,Comic Book,2,157436.0,Shiraz,Credit Card,314872.0
+ORD1076,2026-03-02,1101,Beauty,Sunscreen,1,469531.0,Isfahan,Cash,469531.0
+ORD1633,2026-02-27,1267,Beauty,Sunscreen,3,452312.0,Isfahan,Online,1356936.0
+ORD1832,2026-02-12,1205,Beauty,Lipstick,4,358164.0,Mashhad,Online,1432656.0
+ORD1247,2026-04-29,1257,home & kitchen,Lamp,5,967198.0,Isfahan,Credit Card,4835990.0
+ORD1476,2026-02-05,1196,Clothing,T-Shirt,4,326132.0,Tehran,Online,1304528.0
+ORD1670,2026-01-19,1112,Sports,Bicycle,2,8055788.0,Isfahan,Online,16111576.0
+ORD1085,2026-01-21,1118,home & kitchen,Vacuum Cleaner,4,4374131.0,Mashhad,Cash,17496524.0
+ORD1469,2026-03-01,1046,BEAUTY,Shampoo,3,236305.0,Shiraz,Online,708915.0
+ORD1225,2026-06-04,1038,Clothing,Jacket,1,1438557.0,Mashhad,Online,1438557.0
+ORD1331,2026-05-31,1025,Clothing,T-Shirt,2,364439.0,Mashhad,Cash,728878.0
+ORD1233,2026-02-14,1224,Home & Kitchen,Blender,2,1797845.0,Tehran,Cash,3595690.0
+ORD1588,2026-01-02,1191,Books,Textbook,2,470243.0,Tabriz,Online,940486.0
+ORD1475,2026-06-10,1226,Sports,Dumbbell Set,3,2697185.0,Mashhad,Credit Card,8091555.0
+ORD1811,2026-01-23,1255,Beauty,Sunscreen,1,474400.0,Mashhad,Cash,474400.0
+ORD1748,2026-02-19,1294,Home & Kitchen,Sofa,2,12780426.0,Shiraz,Credit Card,25560852.0
+ORD1599,2026-06-08,1099,Beauty,Sunscreen,2,416942.0,Tehran,Credit Card,833884.0
+ORD1421,2026-03-16,1255,Beauty,Perfume,1,1674142.0,Tehran,Credit Card,1674142.0
+ORD1687,2026-02-04,1151,SPORTS,Yoga Mat,2,434158.0,Shiraz,Online,868316.0
+ORD1182,2026-03-02,1188,Clothing,Running Shoes,1,2349492.0,Isfahan,Cash,2349492.0
+ORD1617,2026-03-11,1070,Beauty,Skincare Cream,2,675010.0,Tabriz,Online,1350020.0
+ORD1332,2026-03-01,1211,Beauty,Sunscreen,1,415036.0,Tehran,Cash,415036.0
+ORD1438,2026-05-18,1166,Books,Novel,3,258249.0,Mashhad,Credit Card,774747.0
+ORD1049,2026-03-31,1189,Clothing,Hat,1,237394.0,Tehran,Cash,237394.0
+ORD1005,2026-03-28,1194,Home & Kitchen,Vacuum Cleaner,1,4252316.0,Tehran,Cash,4252316.0
+ORD1529,2026-02-10,1123,Home & Kitchen,Lamp,5,952520.0,Tehran,Cash,4762600.0
+ORD1234,2026-02-10,1144,Sports,Bicycle,2,8085530.0,Isfahan,Credit Card,16171060.0
+ORD1486,2026-01-22,1261,Books,Comic Book,1,,Isfahan,Cash,
+ORD1774,2026-05-23,1010,Home & Kitchen,Vacuum Cleaner,1,4714052.0,Isfahan,Credit Card,4714052.0
+ORD1497,2026-02-15,1214,Home & Kitchen,Cookware Set,4,2983800.0,Tehran,Online,11935200.0
+ORD1770,2026-01-03,1255,Clothing,Jeans,2,750160.0,Mashhad,Credit Card,1500320.0
+ORD1106,2026-03-04,1194,Electronics,Headphones,4,1182793.0,Shiraz,Online,4731172.0
+ORD1443,2026-04-18,1294,HOME & KITCHEN,Sofa,2,11751632.0,Tabriz,Cash,23503264.0
+ORD1488,2026-03-03,1044,Home & Kitchen,Cookware Set,3,3430610.0,Tehran,Cash,10291830.0
+ORD1646,2026-04-15,1100,Sports,Yoga Mat,3,456738.0,Tehran,Credit Card,1370214.0
+ORD1012,2026-04-08,1285,Books,Cookbook,1,315957.0,Isfahan,Online,315957.0
+ORD1726,2026-06-03,1257,Clothing,Running Shoes,4,2073199.0,Tehran,Online,8292796.0
+ORD1190,2026-04-03,1055,Beauty,Skincare Cream,2,654427.0,Tabriz,Online,1308854.0
+ORD1282,2026-06-06,1251,Beauty,Lipstick,1,372435.0,Isfahan,Online,372435.0
+ORD1029,2026-01-17,1283,Sports,Football,1,556459.0,Isfahan,Cash,556459.0
+ORD1169,2026-04-23,1186,Beauty,Skincare Cream,1,710180.0,,Online,710180.0
+ORD1180,2026-02-09,1050,Home & Kitchen,Lamp,1,877113.0,Shiraz,Online,877113.0
+ORD1100,2026-06-26,1154,Sports,Yoga Mat,1,416262.0,Mashhad,Cash,416262.0
+ORD1197,2026-02-28,1232,Beauty,Perfume,1,1701660.0,Shiraz,Credit Card,1701660.0
+ORD1495,2026-06-22,1260,Home & Kitchen,Blender,-4,1757765.0,Tehran,Cash,-7031060.0
+ORD1721,2026-02-25,1241,Beauty,Shampoo,4,208779.0,Shiraz,Online,835116.0
+ORD1647,2026-04-11,1097,Clothing,T-Shirt,4,360029.0,Mashhad,Credit Card,1440116.0
+ORD1837,2026-06-02,1069,Beauty,Skincare Cream,5,684588.0,Tehran,Online,3422940.0
+ORD1798,2026-03-11,1096,Electronics,Tablet,2,14440497.0,Tabriz,Credit Card,28880994.0
+ORD1710,2026-03-24,1266,ELECTRONICS,Laptop,5,26040911.0,Tehran,Online,130204555.0
+ORD1373,2026-06-15,1189,Clothing,Jacket,1,1543921.0,Tehran,Credit Card,1543921.0
+ORD1678,2026-05-18,1033,Electronics,Laptop,1,26877881.0,Tabriz,Cash,26877881.0
+ORD1761,2026-05-28,1269,Books,Biography,1,271565.0,Mashhad,Cash,271565.0
+ORD1648,2026-04-17,1063,Beauty,Shampoo,1,230178.0,Tehran,Online,230178.0
+ORD1460,2026-04-07,1047,Books,Biography,2,262865.0,Shiraz,Cash,525730.0
+ORD1413,2026-03-12,1247,Clothing,T-Shirt,1,354112.0,Shiraz,Credit Card,354112.0
+ORD1131,2026-03-11,1252,Sports,Dumbbell Set,2,2388843.0,Tabriz,Online,4777686.0
+ORD1039,2026-01-16,1001,Sports,Yoga Mat,4,445690.0,Mashhad,Credit Card,1782760.0
+ORD1434,2026-03-04,1282,Beauty,Perfume,4,1493531.0,Tabriz,Cash,5974124.0
+ORD1215,2026-02-05,1167,Clothing,Jacket,-4,1436939.0,Isfahan,Credit Card,-5747756.0
+ORD1555,2026-06-19,1102,Electronics,Tablet,1,13783801.0,Tabriz,Credit Card,13783801.0
+ORD1566,2026-01-18,1284,Books,Biography,1,275172.0,Tehran,Credit Card,275172.0
+ORD1474,2026-05-25,1084,Beauty,Perfume,1,1607091.0,Tehran,Online,1607091.0
+ORD1456,2026-05-18,1149,HOME & KITCHEN,Lamp,1,829634.0,Mashhad,Credit Card,829634.0
+ORD1260,2026-04-17,1043,Books,Biography,1,285152.0,Mashhad,Online,285152.0
+ORD1035,2026-01-28,1097,Beauty,Shampoo,3,230855.0,Mashhad,Cash,692565.0
+ORD1309,2026-05-24,1283,Electronics,Tablet,1,13486664.0,Mashhad,Credit Card,13486664.0
+ORD1276,2026-02-06,1224,Beauty,Perfume,5,1676363.0,Tabriz,Online,8381815.0
+ORD1636,2026-05-01,1038,Beauty,Perfume,2,1608350.0,Shiraz,Cash,3216700.0
+ORD1654,2026-05-22,1107,Home & Kitchen,Lamp,4,890158.0,Mashhad,Cash,3560632.0
+ORD1622,2026-02-08,1038,Electronics,Smart Watch,2,5875653.0,Tehran,Online,11751306.0
+ORD1393,2026-03-04,1041,home & kitchen,Cookware Set,2,3341523.0,,Credit Card,6683046.0
+ORD1807,2026-05-21,1129,Beauty,Skincare Cream,3,747663.0,Tabriz,Cash,2242989.0
+ORD1107,2026-03-25,1108,Home & Kitchen,Blender,2,1873598.0,Mashhad,Credit Card,3747196.0
+ORD1813,2026-01-28,1119,Beauty,Perfume,3,1707735.0,Mashhad,Credit Card,5123205.0
+ORD1524,2026-05-21,1044,beauty,Shampoo,2,231909.0,Shiraz,Cash,463818.0
+ORD1047,2026-06-21,1161,Clothing,Jacket,1,1504816.0,Isfahan,Credit Card,1504816.0
+ORD1203,2026-02-24,1246,Home & Kitchen,Blender,2,1914783.0,Mashhad,Online,3829566.0
+ORD1795,2026-02-26,1216,clothing,Running Shoes,3,2330987.0,Isfahan,Cash,6992961.0
+ORD1631,2026-05-05,1225,Beauty,Perfume,2,1701172.0,Tehran,Credit Card,3402344.0
+ORD1021,2026-04-27,1134,Electronics,Headphones,1,1130782.0,Tehran,Online,1130782.0
+ORD1402,2026-06-07,1167,Clothing,T-Shirt,1,350294.0,Tabriz,Credit Card,350294.0
+ORD1083,2026-06-13,1248,Sports,Dumbbell Set,3,2325423.0,Isfahan,Online,6976269.0
+ORD1130,2026-05-26,1063,Home & Kitchen,Lamp,3,888107.0,Isfahan,Credit Card,2664321.0
+ORD1415,2026-01-02,1194,Sports,Football,1,595050.0,Shiraz,Credit Card,595050.0
+ORD1741,2026-04-09,1266,Electronics,Smart Watch,1,5809322.0,Shiraz,Online,5809322.0
+ORD1697,2026-03-22,1002,Clothing,Hat,2,253249.0,Shiraz,Cash,506498.0
+ORD1286,2026-02-05,1013,Clothing,T-Shirt,5,,Mashhad,Credit Card,
+ORD1123,2026-04-24,1219,Books,Textbook,2,468804.0,Isfahan,Online,937608.0
+ORD1033,2026-01-25,1216,Sports,Tennis Racket,1,2036461.0,Shiraz,Credit Card,2036461.0
+ORD1839,2026-05-11,1292,Beauty,Shampoo,4,224655.0,Tabriz,Online,898620.0
+ORD1516,2026-02-14,1231,Electronics,Headphones,1,1176280.0,Tehran,Credit Card,1176280.0
+ORD1019,2026-05-16,1005,Sports,Bicycle,5,8216071.0,Isfahan,Online,41080355.0
+ORD1796,2026-06-06,1272,Beauty,Perfume,2,1710622.0,Isfahan,Credit Card,3421244.0
+ORD1219,2026-06-13,1058,Sports,Bicycle,1,8974943.0,Shiraz,Credit Card,8974943.0
+ORD1691,2026-05-12,1094,Clothing,Running Shoes,4,2173753.0,,Cash,8695012.0
+ORD1481,2026-01-19,1184,Clothing,Running Shoes,2,2268903.0,Tabriz,Cash,4537806.0
+ORD1356,2026-03-30,1030,Books,Novel,1,231060.0,Tehran,Online,231060.0
+ORD1661,2026-01-27,1287,Electronics,Headphones,3,1293410.0,Tabriz,Online,3880230.0
+ORD1224,2026-06-15,1052,HOME & KITCHEN,Vacuum Cleaner,3,,Mashhad,Cash,
+ORD1759,2026-05-19,1190,Electronics,Tablet,2,14646457.0,Tehran,Credit Card,29292914.0
+ORD1092,2026-04-11,1013,Books,Comic Book,1,156258.0,Tabriz,Online,156258.0
+ORD1151,2026-05-02,1077,Sports,Football,1,574997.0,Shiraz,Credit Card,574997.0
+ORD1845,2026-02-28,1195,Sports,Football,4,591803.0,Tabriz,Cash,2367212.0
+ORD1317,2026-06-26,1242,Sports,Bicycle,1,8055680.0,Tehran,Online,8055680.0
+ORD1448,2026-01-22,1112,Sports,Tennis Racket,2,1862382.0,Tabriz,Cash,3724764.0
+ORD1803,2026-01-19,1092,Electronics,Headphones,3,1220489.0,Tabriz,Credit Card,3661467.0
+ORD1745,2026-01-23,1180,Beauty,Skincare Cream,5,744752.0,Isfahan,Credit Card,3723760.0
+ORD1522,2026-04-20,1109,Sports,Football,1,645111.0,Mashhad,Credit Card,645111.0
+ORD1279,2026-05-16,1160,Sports,Football,2,628396.0,,Credit Card,1256792.0
+ORD1583,2026-02-11,1113,Home & Kitchen,Blender,1,1750680.0,Tabriz,Cash,1750680.0
+ORD1764,2026-02-23,1051,Beauty,Skincare Cream,1,647755.0,Shiraz,Online,647755.0
+ORD1604,2026-02-10,1066,Clothing,Jeans,2,751441.0,Shiraz,Cash,1502882.0
+ORD1349,2026-05-18,1041,Beauty,Sunscreen,4,459061.0,Mashhad,Cash,1836244.0
+ORD1374,2026-02-18,1193,Electronics,Smart Watch,3,5588341.0,Tehran,Credit Card,16765023.0
+ORD1400,2026-05-19,1071,Books,Textbook,2,468249.0,Isfahan,Credit Card,936498.0
+ORD1704,2026-05-31,1237,Home & Kitchen,Cookware Set,1,2976447.0,Isfahan,Cash,2976447.0
+ORD1257,2026-01-13,1234,Home & Kitchen,Sofa,1,12376377.0,,Credit Card,12376377.0
+ORD1072,2026-02-14,1154,Beauty,Lipstick,2,349935.0,Tabriz,Online,699870.0
+ORD1195,2026-06-02,1232,BOOKS,Biography,1,273244.0,Tabriz,Credit Card,273244.0
+ORD1483,2026-01-19,1034,Beauty,Perfume,3,,Tehran,Online,
+ORD1137,2026-04-13,1232,Sports,Tennis Racket,1,1961717.0,Tabriz,Cash,1961717.0
+ORD1494,2026-05-26,1080,Books,Biography,1,278373.0,Mashhad,Credit Card,278373.0
+ORD1772,2026-01-26,1110,Books,Comic Book,1,141059.0,Mashhad,Cash,141059.0
+ORD1550,2026-01-24,1247,Clothing,T-Shirt,-2,351129.0,Isfahan,Online,-702258.0
+ORD1462,2026-01-24,1183,Home & Kitchen,Lamp,1,935430.0,Shiraz,Online,935430.0
+ORD1201,2026-06-21,1181,BOOKS,Comic Book,2,140019.0,Tehran,Credit Card,280038.0
+ORD1312,2026-05-09,1019,Clothing,Hat,2,231014.0,Tehran,Cash,462028.0
+ORD1290,2026-05-22,1066,Beauty,Sunscreen,1,416196.0,Tabriz,Cash,416196.0
+ORD1189,2026-02-02,1058,Electronics,Mobile Phone,1,17256534.0,Shiraz,Online,17256534.0
+ORD1763,2026-01-31,1161,Beauty,Perfume,2,1662450.0,Tabriz,Credit Card,3324900.0
+ORD1112,2026-03-30,1281,Home & Kitchen,Cookware Set,-2,3420005.0,Shiraz,Online,-6840010.0
+ORD1183,2026-03-12,1232,Books,Biography,1,296904.0,,Cash,296904.0
+ORD1152,2026-06-01,1225,Sports,Football,1,565909.0,Isfahan,Cash,565909.0
+ORD1824,2026-02-19,1292,Electronics,Mobile Phone,1,18107699.0,,Cash,18107699.0
+ORD1325,2026-03-05,1152,Books,Textbook,1,519031.0,Isfahan,Online,519031.0
+ORD1703,2026-05-19,1076,ELECTRONICS,Smart Watch,1,5649038.0,Shiraz,Online,5649038.0
+ORD1044,2026-01-18,1061,Electronics,Mobile Phone,1,17305286.0,Mashhad,Credit Card,17305286.0
+ORD1444,2026-06-12,1088,Sports,Tennis Racket,1,1995091.0,Tabriz,Online,1995091.0
+ORD1787,2026-03-25,1276,Electronics,Laptop,2,24603405.0,Shiraz,Credit Card,49206810.0
+ORD1006,2026-06-04,1235,Electronics,Headphones,3,1115152.0,Isfahan,Cash,3345456.0
+ORD1250,2026-02-11,1262,Electronics,Headphones,1,1160534.0,,Credit Card,1160534.0
+ORD1823,2026-01-18,1091,ELECTRONICS,Laptop,2,24592674.0,Tehran,Cash,49185348.0
+ORD1075,2026-02-13,1263,Books,Textbook,3,518320.0,Tehran,Credit Card,1554960.0
+ORD1512,2026-04-30,1061,Clothing,T-Shirt,1,374232.0,Isfahan,Credit Card,374232.0
+ORD1391,2026-05-15,1098,Clothing,T-Shirt,4,345106.0,Mashhad,Cash,1380424.0
+ORD1432,2026-06-28,1034,sports,Football,1,6113480.0,Shiraz,Credit Card,6113480.0
+ORD1068,2026-01-01,1100,Home & Kitchen,Blender,3,1677470.0,,Online,5032410.0
+ORD1167,2026-04-01,1097,Home & Kitchen,Sofa,2,11398115.0,Mashhad,Online,22796230.0
+ORD1730,2026-05-03,1145,Electronics,Tablet,1,13247955.0,Mashhad,Cash,13247955.0
+ORD1554,2026-05-06,1184,ELECTRONICS,Tablet,2,14843704.0,Mashhad,Cash,29687408.0
+ORD1366,2026-05-28,1164,Home & Kitchen,Sofa,3,12885485.0,Isfahan,Online,38656455.0
+ORD1345,2026-06-27,1060,Electronics,Headphones,2,1222243.0,Mashhad,Cash,2444486.0
+ORD1584,2026-03-10,1010,Beauty,Perfume,2,1634150.0,Shiraz,Online,3268300.0
+ORD1535,2026-06-07,1174,BOOKS,Textbook,1,535581.0,Mashhad,Cash,535581.0
+ORD1398,2026-03-22,1300,Beauty,Skincare Cream,1,728097.0,Tehran,Cash,728097.0
+ORD1185,2026-02-22,1106,Clothing,Jeans,3,,,Online,
+ORD1348,2026-04-27,1212,Clothing,Jeans,2,783950.0,Tabriz,Credit Card,1567900.0
+ORD1615,2026-04-08,1129,Electronics,Laptop,1,26683489.0,,Online,26683489.0
+ORD1211,2026-01-13,1226,Clothing,Jeans,3,824562.0,Tehran,Credit Card,2473686.0
+ORD1579,2026-03-05,1025,Clothing,Jeans,3,769055.0,Tehran,Credit Card,2307165.0
+ORD1502,2026-04-05,1100,Home & Kitchen,Lamp,1,872571.0,Tabriz,Credit Card,872571.0
+ORD1537,2026-05-15,1191,Books,Cookbook,3,287872.0,Isfahan,Cash,863616.0
+ORD1196,2026-06-29,1282,Books,Comic Book,1,155422.0,Tehran,Online,155422.0
+ORD1175,2026-06-22,1195,ELECTRONICS,Tablet,1,13270580.0,Isfahan,Online,13270580.0
